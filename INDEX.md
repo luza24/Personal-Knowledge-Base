@@ -1,6 +1,6 @@
 # 对话日志索引
 
-> 共 31 篇 ｜ 目录按项目分，技术栈见 [TAGS.md](TAGS.md)
+> 共 32 篇 ｜ 目录按项目分，技术栈见 [TAGS.md](TAGS.md)
 
 - [2026年10月工作梳理](2026年10月工作梳理.md) — 根目录文档
 
@@ -23,7 +23,7 @@
 - [2026-09-17 Gazebo 机器人导航场地 world 文件编写](ROS仿真车/2026-09-17_Gazebo导航场地world文件编写.md) — `功能开发` `gazebo` `导航` — 部分解决
 - ["2026-10-15" 真车迁移：导航改用 TEB 局部规划器 + 航点表重构](ROS仿真车/2026-10-15_真车迁移导航改TEB局部规划器.md) — `部署迁移` `ros` `move_base` `teb` `真车` — 部分解决
 
-## 开发环境（7 篇）
+## 开发环境（8 篇）
 
 - [2026-10-09 Claude Code 推理强度（effort）调整与 DeepSeek 是否支持实测](开发环境/2026-10-09_Claude-Code-effort与DeepSeek实测.md) — `方案选型` `claude-code` `deepseek` — 已解决
 - [2026-10-08 Chrome 安装 Bypass Paywalls Clean 付费墙绕过扩展](开发环境/2026-10-08_Chrome安装付费墙绕过扩展.md) — `环境配置` `git` — 已解决
@@ -31,6 +31,7 @@
 - [2026-09-30 Docker 容器 ROS 代码推送到 GitHub 分支方法](开发环境/2026-09-30_Docker容器ROS代码推送GitHub分支.md) — `环境配置` `docker` `git` — 已解决
 - [2026-09-23 Docker Desktop 数据挂载与镜像清理排查](开发环境/2026-09-23_Docker数据挂载与镜像清理.md) — `环境配置` `docker` `wsl2` — 已解决
 - [2026-09-15 创建「对话整理」skill](开发环境/2026-09-15_创建对话整理skill.md) — `环境配置` `claude-code` — 已解决
+- ["2026-10-15" 容器显示后端卡在 local：Gazebo/RViz 不出窗口排查](开发环境/2026-10-15_显示后端卡在local排查.md) — `报错排查` `docker` `wsl2` `ros` — 已解决
 - ["2026-10-15" E 盘清理与 C 盘瘦身：旧 Docker 数据识别与数据搬迁](开发环境/2026-10-15_E盘清理与C盘瘦身.md) — `部署迁移` `docker` `wsl2` `claude-code` `python环境` — 部分解决
 
 ## 技术报告（8 篇）
