@@ -1,0 +1,10 @@
+# Windows / 编辑器杂物
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+*.swp
+
+# 迁移备份（若误放进本目录）
+_migration_backup/
+*备份*
