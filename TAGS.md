@@ -20,7 +20,7 @@
 - [`视觉`](#视觉)（6 篇）
 - [`gazebo`](#gazebo)（5 篇）
 - [`git`](#git)（5 篇）
-- [`move_base`](#move_base)（4 篇）
+- [`move_base`](#move_base)（5 篇）
 - [`wsl2`](#wsl2)（4 篇）
 - [`claude-code`](#claude-code)（3 篇）
 - [`matplotlib`](#matplotlib)（3 篇）
@@ -159,8 +159,9 @@
 - [2026-10-06 容器 aic26_perception 包替换为远程 feature/nav-slam 版本](ROS仿真车/2026-10-06_perception包替换为远程版本.md)
 - [2026-09-30 Docker 容器 ROS 代码推送到 GitHub 分支方法](开发环境/2026-09-30_Docker容器ROS代码推送GitHub分支.md)
 
-## `move_base`（4 篇）
+## `move_base`（5 篇）
 
+- [2026-10-02 patrol 脚本定点旋转角度不准（开环改地面真值闭环）](ROS仿真车/2026-10-02_patrol定点旋转角度不准修复.md)
 - [2026-09-30 ROS 导航规划器选型与定点旋转功能](ROS仿真车/2026-09-30_ROS导航规划器选型与定点旋转.md)
 - [2026-09-22 ROS 导航停-走抖动与平滑巡检（TEB / pure-pursuit）](ROS仿真车/2026-09-22_ROS导航停走抖动与平滑巡检.md)
 - [2026-09-21 ROS1 智慧社区 waypoint 导航实现与报错修复](ROS仿真车/2026-09-21_ROS1-waypoint导航与报错修复.md)

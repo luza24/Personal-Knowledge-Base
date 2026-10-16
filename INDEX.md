@@ -11,7 +11,7 @@
 - [2026-10-08 车牌 OCR 识别延迟 5-6 秒排查与修复](ROS仿真车/2026-10-08_车牌OCR识别延迟排查与修复.md) — `报错排查` `ocr` `rapidocr` `ros` — 已解决
 - [2026-10-08 aic26_perception 容器版与 GitHub visual-slam 分支对比](ROS仿真车/2026-10-08_perception容器版与visual-slam对比.md) — `方案选型` `ros` `perception` `视觉` `git` — 已解决
 - [2026-10-06 容器 aic26_perception 包替换为远程 feature/nav-slam 版本](ROS仿真车/2026-10-06_perception包替换为远程版本.md) — `部署迁移` `ros` `docker` `git` `perception` — 已解决
-- [2026-10-02 patrol 脚本定点旋转角度不准（开环改地面真值闭环）](ROS仿真车/2026-10-02_patrol定点旋转角度不准修复.md) — `报错排查` `ros` `patrol` `视觉` — 部分解决
+- [2026-10-02 patrol 脚本定点旋转角度不准（开环改地面真值闭环）](ROS仿真车/2026-10-02_patrol定点旋转角度不准修复.md) — `报错排查` `ros` `patrol` `move_base` `视觉` — 部分解决
 - [2026-10-01 ROS 视觉代码迁移到真车主板部署](ROS仿真车/2026-10-01_ROS视觉代码迁移到真车部署.md) — `部署迁移` `ros` `真车` `视觉` `gmapping` — 部分解决
 - [2026-09-30 YOLO 视觉模型部署到仿真车](ROS仿真车/2026-09-30_YOLO视觉模型部署到仿真车.md) — `部署迁移` `yolo` `ros` `python环境` `ocr` — 已解决
 - [2026-09-30 ROS 导航规划器选型与定点旋转功能](ROS仿真车/2026-09-30_ROS导航规划器选型与定点旋转.md) — `方案选型` `ros` `move_base` `teb` — 已解决
