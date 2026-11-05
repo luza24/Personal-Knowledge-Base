@@ -1,7 +1,7 @@
 ---
 title: OpenVINO int8 视觉检测失效修复（aic26_ws_112）
 date: "2026-11-04"
-updated: "2026-11-04"
+updated: "2026-11-05"
 project: ROS仿真车
 tags: [报错排查, 视觉, yolo, perception, ros]
 status: 部分解决
@@ -84,6 +84,17 @@ else:
 3. P3 `cv2.dnn` 回退分支缺 `self.net.setInput(blob)`（仅 OpenVINO/onnxruntime 都不可用时触发，两工作区共有）。
 4. 信息项：`results/*.json` 只在 `gui:=true` 的 `ResultViewer` 中写，无头运行不更新属设计行为。
 
+## 2026-11-05 后续
+
+在 `aic26_ws_112` 完成 v2 请求协议、people 单帧众数、car 异步 OCR/预加载、traffic event 和 mission 并行触发后，本文遗留的 P1（car OCR 被 session 吞掉）和 P2（people 1 秒窗口 0 人）已处理：
+
+- people 改为第一帧后观察窗口，并在最新版本改为单帧众数，不再跨帧并集；
+- car EasyOCR 后台预加载，图像回调不再 `join()`，最终结果只封存一次，无车/empty/timeout 都有明确结果；
+- 仿真全程和实车 18 任务均跑通；
+- 实车视觉准确率仍不足：people 多数站点为 0，car OCR 多为 empty/timeout，traffic 未在 10 秒内判定绿灯。
+
+完整过程见 [AIC26 视觉检测 v2 与实车 PC 语音链路验证](2026-11-05_AIC26视觉v2实车链路.md)。
+
 ## 相关记录
 
 - [aic26_ws_speech 全工作区梳理与语音链路风险](2026-10-25_aic26_ws_speech梳理与风险.md)
@@ -96,3 +107,4 @@ else:
 ## 变更记录
 
 - 2026-11-04 23:53 首次整理
+- 2026-11-05 22:59 补充：v2 视觉链路完成并实车跑通；P1/P2 已处理，新增实车准确率遗留
