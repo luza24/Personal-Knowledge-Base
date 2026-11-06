@@ -1,0 +1,1831 @@
+{
+  "files": [
+    {
+      "kind": "readme",
+      "path": "README.md",
+      "sha256": "779dc30c959d67758f2a5a2b7178310e20f6740783d62d721795f2908e971b4b",
+      "source": ""
+    },
+    {
+      "kind": "readme",
+      "path": "主题/README.md",
+      "sha256": "fbeb71a6c27fb58f907628600e85f0d30f84fcb4f71289e6019cc6190839c9be",
+      "source": ""
+    },
+    {
+      "kind": "theme",
+      "path": "主题/仿真与可视化/ROS仿真车/2026-09-17_Gazebo导航场地world文件编写.md",
+      "sha256": "63630d9925bd4aa0005d3e9bc85ac99bfab7f968f1e8795a2d46b7c6a862b76c",
+      "source": "项目/ROS仿真车/2026-09-17_Gazebo导航场地world文件编写.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/仿真与可视化/ROS仿真车/2026-09-18_Gazebo红绿灯时序插件开发排错.md",
+      "sha256": "20b1929dd8bffa9cf0be914c8c66b79068e4fa2dd1206fd6636702bb8baef13b",
+      "source": "项目/ROS仿真车/2026-09-18_Gazebo红绿灯时序插件开发排错.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/仿真与可视化/ROS仿真车/2026-09-23_rviz不显示小车与地图排查.md",
+      "sha256": "cd8f408d1da41856ef9f7fb7f9598528e365f5685d05e8e2131ddf2f0547f79f",
+      "source": "项目/ROS仿真车/2026-09-23_rviz不显示小车与地图排查.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/仿真与可视化/ROS仿真车/2026-10-25_Gazebo仿真卡顿优化.md",
+      "sha256": "f7bb480bf82361c5a16b3a24dc2b7b2574fb233ddf64b578c9bc6e2b2eb6512c",
+      "source": "项目/ROS仿真车/2026-10-25_Gazebo仿真卡顿优化.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/仿真与可视化/ROS仿真车/2026-10-27_实车任务栈GUI冻结与图像管线降载.md",
+      "sha256": "e44582f240d4573dda1e7645c106e0725420d759c7cb7790ff849ac74a4bc1f9",
+      "source": "项目/ROS仿真车/2026-10-27_实车任务栈GUI冻结与图像管线降载.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/仿真与可视化/开发环境/2026-10-02_Docker容器Gazebo弹窗到Windows.md",
+      "sha256": "72ed74fa9a00f9ddd1d8a8b9d7a252f31c027b9012b1589bc503a1a232cdac4a",
+      "source": "项目/开发环境/2026-10-02_Docker容器Gazebo弹窗到Windows.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/仿真与可视化/开发环境/2026-10-15_显示后端卡在local排查.md",
+      "sha256": "94b2e1f2c5af7cd863b5261a97cfdce430fec7c766d8ada0cc660cf491a33f6d",
+      "source": "项目/开发环境/2026-10-15_显示后端卡在local排查.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/仿真与可视化/开发环境/2026-10-23_实车Gazebo窗口不显示排查.md",
+      "sha256": "c3cc4df4737e44c702d56233148b28292d8c66fb0619af65c3f68a6306dea6c9",
+      "source": "项目/开发环境/2026-10-23_实车Gazebo窗口不显示排查.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/仿真与可视化/技术报告/2026-10-10_报告性能测试参数扫描与图表.md",
+      "sha256": "efb3bc0a1295bd21764d21f0043f669807eefca8c7249749ed25c142b83f63df",
+      "source": "项目/技术报告/2026-10-10_报告性能测试参数扫描与图表.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/导航与运动控制/ROS仿真车/2026-09-21_ROS1-waypoint导航与报错修复.md",
+      "sha256": "a8e91108de3ce62db077e5a06ed557a4c71b7ec1503f96e2bd2181c0245af946",
+      "source": "项目/ROS仿真车/2026-09-21_ROS1-waypoint导航与报错修复.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/导航与运动控制/ROS仿真车/2026-09-22_ROS导航停走抖动与平滑巡检.md",
+      "sha256": "07b54224f11d8484e1b77b765753770ef0db0b7aaf90788dd372b7e636a19597",
+      "source": "项目/ROS仿真车/2026-09-22_ROS导航停走抖动与平滑巡检.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/导航与运动控制/ROS仿真车/2026-09-23_巡逻代码红绿灯视觉停车功能.md",
+      "sha256": "90d5874e8144fd40fab085d8a17b399b56d2bf66df9129259a1bf0a1e83c8727",
+      "source": "项目/ROS仿真车/2026-09-23_巡逻代码红绿灯视觉停车功能.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/导航与运动控制/ROS仿真车/2026-09-30_ROS导航规划器选型与定点旋转.md",
+      "sha256": "61af4dd74fe4e08649aaabcd5f3bf2976b202ca5d5a08620078204a46a70503b",
+      "source": "项目/ROS仿真车/2026-09-30_ROS导航规划器选型与定点旋转.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/导航与运动控制/ROS仿真车/2026-10-02_patrol定点旋转角度不准修复.md",
+      "sha256": "e87ba30b59d5cb68331f1208e8ff97ef31e5699d20d9df35af45fc7516a37261",
+      "source": "项目/ROS仿真车/2026-10-02_patrol定点旋转角度不准修复.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/导航与运动控制/ROS仿真车/2026-10-09_视觉节点重构与实机导航适配.md",
+      "sha256": "17ca9992d97b19f9947bb610eb04f0db856b902653c5c196e160aaaf865a4a31",
+      "source": "项目/ROS仿真车/2026-10-09_视觉节点重构与实机导航适配.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/导航与运动控制/ROS仿真车/2026-10-15_真车迁移导航改TEB局部规划器.md",
+      "sha256": "f073de5f666df4acdacb164f9164f8debf86c837c54fa089d40f6d723ce31b78",
+      "source": "项目/ROS仿真车/2026-10-15_真车迁移导航改TEB局部规划器.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/导航与运动控制/ROS仿真车/2026-10-25_aic1023代码审查与关键缺陷.md",
+      "sha256": "5677eb0b2fee869fce945fbd9e2c456e34d11c76baecc4fe5e4763776ae8c180",
+      "source": "项目/ROS仿真车/2026-10-25_aic1023代码审查与关键缺陷.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/导航与运动控制/ROS仿真车/2026-10-25_实车航点雷达坐标与膨胀半径调优.md",
+      "sha256": "78ce3ef883e76db710c3b3a5b41dac6853cbcf152fa0c9a5603973e4c2405349",
+      "source": "项目/ROS仿真车/2026-10-25_实车航点雷达坐标与膨胀半径调优.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/导航与运动控制/ROS仿真车/2026-10-25_导航回退A与转向偏差排查.md",
+      "sha256": "f1e16d4b2fcd735cc7531492c24b4c0bf18cffa6ab77b3f566fa6ea748dece91",
+      "source": "项目/ROS仿真车/2026-10-25_导航回退A与转向偏差排查.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/导航与运动控制/ROS仿真车/2026-10-27_aic1027运动控制PID与导航点位稳定性.md",
+      "sha256": "2e41b8830e0ea767891e3cebb9df086cde14a92727dc59c06cc6531c50628f57",
+      "source": "项目/ROS仿真车/2026-10-27_aic1027运动控制PID与导航点位稳定性.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/导航与运动控制/ROS仿真车/2026-10-28_aic1027导航压线Astra交接.md",
+      "sha256": "e02f71f71aedb2057b6eb03e715b2c627590669cbc63832d28b7dc517aba3c53",
+      "source": "项目/ROS仿真车/2026-10-28_aic1027导航压线Astra交接.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/导航与运动控制/ROS仿真车/2026-11-01_aic26双工作区导航对比与备份.md",
+      "sha256": "3a40cfbee90050c7057ec479707644b47f14c62c14320f6494f9c10b923a6012",
+      "source": "项目/ROS仿真车/2026-11-01_aic26双工作区导航对比与备份.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/导航与运动控制/ROS仿真车/2026-11-06_实车路线people_e窄道规划故障.md",
+      "sha256": "d1f6fdfc5d58bd575014f19d1299496f665e084775bffa2dcabd704cdb3f2509",
+      "source": "项目/ROS仿真车/2026-11-06_实车路线people_e窄道规划故障.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/导航与运动控制/技术报告/2026-09-21_智慧社区复赛导航与视觉方案.md",
+      "sha256": "e76a59c84373d2a4ada34b20a9f33fd2d05803bf279d5d2a22cc2b07e2319dc6",
+      "source": "项目/技术报告/2026-09-21_智慧社区复赛导航与视觉方案.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/导航与运动控制/技术报告/2026-11-01_工厂AMR搬运方案骨架.md",
+      "sha256": "d37642729f6e902ed3e51140bceeeea4d701ec8ea9aa6b9ed972f14eb911408f",
+      "source": "项目/技术报告/2026-11-01_工厂AMR搬运方案骨架.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/感知与视觉/ROS仿真车/2026-09-23_巡逻代码红绿灯视觉停车功能.md",
+      "sha256": "90d5874e8144fd40fab085d8a17b399b56d2bf66df9129259a1bf0a1e83c8727",
+      "source": "项目/ROS仿真车/2026-09-23_巡逻代码红绿灯视觉停车功能.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/感知与视觉/ROS仿真车/2026-09-30_YOLO视觉模型部署到仿真车.md",
+      "sha256": "2d97e32818b4ef1dc2750bcd9394eaf44dafe14fdf707e9488b8d24613f15a1e",
+      "source": "项目/ROS仿真车/2026-09-30_YOLO视觉模型部署到仿真车.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/感知与视觉/ROS仿真车/2026-10-01_ROS视觉代码迁移到真车部署.md",
+      "sha256": "078b010ef07279111f04fcb3b6146b56f18897fad1190a85369db52a7c952b25",
+      "source": "项目/ROS仿真车/2026-10-01_ROS视觉代码迁移到真车部署.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/感知与视觉/ROS仿真车/2026-10-06_perception包替换为远程版本.md",
+      "sha256": "07b25e557e596130fe60da8a1bfe17c6ae5addb9b19634ea9d447d80b04f4818",
+      "source": "项目/ROS仿真车/2026-10-06_perception包替换为远程版本.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/感知与视觉/ROS仿真车/2026-10-08_perception容器版与visual-slam对比.md",
+      "sha256": "d8b09a74a2f57a413f974484eefa25ff8acb12bf0cdbb5f158ac8fc348d50ea0",
+      "source": "项目/ROS仿真车/2026-10-08_perception容器版与visual-slam对比.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/感知与视觉/ROS仿真车/2026-10-08_车牌OCR识别延迟排查与修复.md",
+      "sha256": "4290fa80038ae9c4597da6689e4a760ec783c08750cd176bf5f1272daa850274",
+      "source": "项目/ROS仿真车/2026-10-08_车牌OCR识别延迟排查与修复.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/感知与视觉/ROS仿真车/2026-10-09_视觉节点重构与实机导航适配.md",
+      "sha256": "17ca9992d97b19f9947bb610eb04f0db856b902653c5c196e160aaaf865a4a31",
+      "source": "项目/ROS仿真车/2026-10-09_视觉节点重构与实机导航适配.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/感知与视觉/ROS仿真车/2026-10-25_aic1023代码审查与关键缺陷.md",
+      "sha256": "5677eb0b2fee869fce945fbd9e2c456e34d11c76baecc4fe5e4763776ae8c180",
+      "source": "项目/ROS仿真车/2026-10-25_aic1023代码审查与关键缺陷.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/感知与视觉/ROS仿真车/2026-10-27_实车任务栈GUI冻结与图像管线降载.md",
+      "sha256": "e44582f240d4573dda1e7645c106e0725420d759c7cb7790ff849ac74a4bc1f9",
+      "source": "项目/ROS仿真车/2026-10-27_实车任务栈GUI冻结与图像管线降载.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/感知与视觉/ROS仿真车/2026-11-04_OpenVINO_int8检测失效修复.md",
+      "sha256": "9a19712672fb653e8e6b9016e8e260ec9162e17c299f3bfcce304763539cedae",
+      "source": "项目/ROS仿真车/2026-11-04_OpenVINO_int8检测失效修复.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/感知与视觉/ROS仿真车/2026-11-05_AIC26视觉v2实车链路.md",
+      "sha256": "1a554b7a3c30b86d7f1e5269b2ea886865f6cef10f7c78063a95176172d80331",
+      "source": "项目/ROS仿真车/2026-11-05_AIC26视觉v2实车链路.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/感知与视觉/ROS仿真车/2026-11-06_AIC26垃圾桶检测接入与模型路由.md",
+      "sha256": "cd057942853a63b0b94e08030b85301670351f9bd2ef1df1e1fdb8c690348601",
+      "source": "项目/ROS仿真车/2026-11-06_AIC26垃圾桶检测接入与模型路由.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/感知与视觉/技术报告/2026-09-21_智慧社区复赛导航与视觉方案.md",
+      "sha256": "e76a59c84373d2a4ada34b20a9f33fd2d05803bf279d5d2a22cc2b07e2319dc6",
+      "source": "项目/技术报告/2026-09-21_智慧社区复赛导航与视觉方案.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/感知与视觉/技术报告/2026-10-11_建图导航视觉代码合集与讲稿制作.md",
+      "sha256": "c35eb5e401fe617b179655d21123d505b8aa7932b5e40805b82d85f0d22a388d",
+      "source": "项目/技术报告/2026-10-11_建图导航视觉代码合集与讲稿制作.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/文档与配图/技术报告/2026-09-27_技术报告框架编写与PDF生成.md",
+      "sha256": "8f6d30ba14b38cb428f8f0cd0f710bfa50eee2d7de04f5f93768c018a47d606e",
+      "source": "项目/技术报告/2026-09-27_技术报告框架编写与PDF生成.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/文档与配图/技术报告/2026-10-03_技术方案文书初稿各章节撰写.md",
+      "sha256": "fb71edfcb84889adc0bc68a672c26932ebe3c31e2239488931045b3481eb0afc",
+      "source": "项目/技术报告/2026-10-03_技术方案文书初稿各章节撰写.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/文档与配图/技术报告/2026-10-08_报告代码高亮与参考文献更新.md",
+      "sha256": "0d145c25415b47c1221076cae8f5571084f2791a56a8a916581b4fd9a312f929",
+      "source": "项目/技术报告/2026-10-08_报告代码高亮与参考文献更新.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/文档与配图/技术报告/2026-10-10_10月工作梳理.md",
+      "sha256": "735fa4c1988bb2adfb75dd3029c94e28870f659c65c59e87eb9e607632c5487a",
+      "source": "项目/技术报告/2026-10-10_10月工作梳理.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/文档与配图/技术报告/2026-10-10_报告性能测试参数扫描与图表.md",
+      "sha256": "efb3bc0a1295bd21764d21f0043f669807eefca8c7249749ed25c142b83f63df",
+      "source": "项目/技术报告/2026-10-10_报告性能测试参数扫描与图表.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/文档与配图/技术报告/2026-10-11_建图导航视觉代码合集与讲稿制作.md",
+      "sha256": "c35eb5e401fe617b179655d21123d505b8aa7932b5e40805b82d85f0d22a388d",
+      "source": "项目/技术报告/2026-10-11_建图导航视觉代码合集与讲稿制作.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/文档与配图/技术报告/2026-10-12_报告配图制作与正文章节改写.md",
+      "sha256": "11abb837f9b7a18275d7691ad82ac42affefe07c054c53edda16cf39f6566437",
+      "source": "项目/技术报告/2026-10-12_报告配图制作与正文章节改写.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/文档与配图/技术报告/2026-10-13_PPT可编辑矢量配图制作.md",
+      "sha256": "969ba30474d44e3166e0ef175a66e2f490307d69670a8bea6869696879595b0f",
+      "source": "项目/技术报告/2026-10-13_PPT可编辑矢量配图制作.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/文档与配图/技术报告/2026-10-31_US3958473专利翻译解读.md",
+      "sha256": "137cb2c31435326e1c632bb422175cc9e3029825fd3b7c76e66353cf1f6032a7",
+      "source": "项目/技术报告/2026-10-31_US3958473专利翻译解读.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/文档与配图/技术报告/2026-11-01_AI生产力框架报告.md",
+      "sha256": "4fd475a13c50a4265ad1f7d41776d7b74364acd30a62159868e628ee703d6648",
+      "source": "项目/技术报告/2026-11-01_AI生产力框架报告.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/方案与选型/技术报告/2026-11-01_工厂AMR搬运方案骨架.md",
+      "sha256": "d37642729f6e902ed3e51140bceeeea4d701ec8ea9aa6b9ed972f14eb911408f",
+      "source": "项目/技术报告/2026-11-01_工厂AMR搬运方案骨架.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/方案与选型/技术报告/2026-11-01_绕辊清理机器人整机方案.md",
+      "sha256": "f8d53da08ec52cc930d6321d87c8d1fce7df071a46a62076ae8ab0a1bdbce062",
+      "source": "项目/技术报告/2026-11-01_绕辊清理机器人整机方案.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/环境与工具链/ROS仿真车/2026-09-23_rviz不显示小车与地图排查.md",
+      "sha256": "cd8f408d1da41856ef9f7fb7f9598528e365f5685d05e8e2131ddf2f0547f79f",
+      "source": "项目/ROS仿真车/2026-09-23_rviz不显示小车与地图排查.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/环境与工具链/ROS仿真车/2026-09-30_YOLO视觉模型部署到仿真车.md",
+      "sha256": "2d97e32818b4ef1dc2750bcd9394eaf44dafe14fdf707e9488b8d24613f15a1e",
+      "source": "项目/ROS仿真车/2026-09-30_YOLO视觉模型部署到仿真车.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/环境与工具链/ROS仿真车/2026-10-06_perception包替换为远程版本.md",
+      "sha256": "07b25e557e596130fe60da8a1bfe17c6ae5addb9b19634ea9d447d80b04f4818",
+      "source": "项目/ROS仿真车/2026-10-06_perception包替换为远程版本.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/环境与工具链/ROS仿真车/2026-10-08_perception容器版与visual-slam对比.md",
+      "sha256": "d8b09a74a2f57a413f974484eefa25ff8acb12bf0cdbb5f158ac8fc348d50ea0",
+      "source": "项目/ROS仿真车/2026-10-08_perception容器版与visual-slam对比.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/环境与工具链/ROS仿真车/2026-10-09_ROS项目移植与环境配方改造.md",
+      "sha256": "1c6a5a0fb829fc4c988450dbc8a279ce6289c7534546d989b2c0b680886a5d9b",
+      "source": "项目/ROS仿真车/2026-10-09_ROS项目移植与环境配方改造.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/环境与工具链/ROS仿真车/2026-11-01_aic26双工作区导航对比与备份.md",
+      "sha256": "3a40cfbee90050c7057ec479707644b47f14c62c14320f6494f9c10b923a6012",
+      "source": "项目/ROS仿真车/2026-11-01_aic26双工作区导航对比与备份.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/环境与工具链/开发环境/2026-09-15_创建对话整理skill.md",
+      "sha256": "0e9ef4e8473704ef5647cad73109ffff3abd121d1d2e0fbf5f1444d528c740fa",
+      "source": "项目/开发环境/2026-09-15_创建对话整理skill.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/环境与工具链/开发环境/2026-09-23_Docker数据挂载与镜像清理.md",
+      "sha256": "7f2f0787de2e3cd1a9b56e644c12ead469d6464b5f61f5a1563a1407d055410a",
+      "source": "项目/开发环境/2026-09-23_Docker数据挂载与镜像清理.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/环境与工具链/开发环境/2026-09-30_Docker容器ROS代码推送GitHub分支.md",
+      "sha256": "98ce348e8e95b1892cf69dd6c840b484b5bb266443bc1eaf299052a71b9ded7d",
+      "source": "项目/开发环境/2026-09-30_Docker容器ROS代码推送GitHub分支.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/环境与工具链/开发环境/2026-10-02_Docker容器Gazebo弹窗到Windows.md",
+      "sha256": "72ed74fa9a00f9ddd1d8a8b9d7a252f31c027b9012b1589bc503a1a232cdac4a",
+      "source": "项目/开发环境/2026-10-02_Docker容器Gazebo弹窗到Windows.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/环境与工具链/开发环境/2026-10-08_Chrome安装付费墙绕过扩展.md",
+      "sha256": "9eb49d02b2643b18bb7f378c94992b768b14468d5e96ce1cf3b57738ed872963",
+      "source": "项目/开发环境/2026-10-08_Chrome安装付费墙绕过扩展.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/环境与工具链/开发环境/2026-10-09_Claude-Code-effort与DeepSeek实测.md",
+      "sha256": "46696b0217d3b89c459610ea9e8f234476180c6a0884f936cf04e725659ae6d4",
+      "source": "项目/开发环境/2026-10-09_Claude-Code-effort与DeepSeek实测.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/环境与工具链/开发环境/2026-10-15_E盘清理与C盘瘦身.md",
+      "sha256": "584adc0858503e9ad709e76dfd1a4b94ae84277b586a67fd585f5034d75e5d91",
+      "source": "项目/开发环境/2026-10-15_E盘清理与C盘瘦身.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/环境与工具链/开发环境/2026-10-15_显示后端卡在local排查.md",
+      "sha256": "94b2e1f2c5af7cd863b5261a97cfdce430fec7c766d8ada0cc660cf491a33f6d",
+      "source": "项目/开发环境/2026-10-15_显示后端卡在local排查.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/环境与工具链/开发环境/2026-10-23_实车Gazebo窗口不显示排查.md",
+      "sha256": "c3cc4df4737e44c702d56233148b28292d8c66fb0619af65c3f68a6306dea6c9",
+      "source": "项目/开发环境/2026-10-23_实车Gazebo窗口不显示排查.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/环境与工具链/开发环境/2026-10-25_给ChatGPT分析大项目的打包与强度选型.md",
+      "sha256": "8585bf29911e279f7bba3989dbc425937c77c3803885dd2c6d38ecfce229bab2",
+      "source": "项目/开发环境/2026-10-25_给ChatGPT分析大项目的打包与强度选型.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/硬件与调试/ROS仿真车/2026-10-01_ROS视觉代码迁移到真车部署.md",
+      "sha256": "078b010ef07279111f04fcb3b6146b56f18897fad1190a85369db52a7c952b25",
+      "source": "项目/ROS仿真车/2026-10-01_ROS视觉代码迁移到真车部署.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/硬件与调试/ROS仿真车/2026-10-15_真车迁移导航改TEB局部规划器.md",
+      "sha256": "f073de5f666df4acdacb164f9164f8debf86c837c54fa089d40f6d723ce31b78",
+      "source": "项目/ROS仿真车/2026-10-15_真车迁移导航改TEB局部规划器.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/硬件与调试/ROS仿真车/2026-10-25_实车航点雷达坐标与膨胀半径调优.md",
+      "sha256": "78ce3ef883e76db710c3b3a5b41dac6853cbcf152fa0c9a5603973e4c2405349",
+      "source": "项目/ROS仿真车/2026-10-25_实车航点雷达坐标与膨胀半径调优.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/硬件与调试/ROS仿真车/2026-10-28_aic1027导航压线Astra交接.md",
+      "sha256": "e02f71f71aedb2057b6eb03e715b2c627590669cbc63832d28b7dc517aba3c53",
+      "source": "项目/ROS仿真车/2026-10-28_aic1027导航压线Astra交接.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/硬件与调试/ROS仿真车/2026-11-06_IMU波特率115200适配.md",
+      "sha256": "1a42b5718caafba5eb43046a843853b2061491406feeefd8e4d86a856f50a677",
+      "source": "项目/ROS仿真车/2026-11-06_IMU波特率115200适配.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/硬件与调试/技术报告/2026-10-31_US3958473专利翻译解读.md",
+      "sha256": "137cb2c31435326e1c632bb422175cc9e3029825fd3b7c76e66353cf1f6032a7",
+      "source": "项目/技术报告/2026-10-31_US3958473专利翻译解读.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/硬件与调试/技术报告/2026-11-01_绕辊清理机器人整机方案.md",
+      "sha256": "f8d53da08ec52cc930d6321d87c8d1fce7df071a46a62076ae8ab0a1bdbce062",
+      "source": "项目/技术报告/2026-11-01_绕辊清理机器人整机方案.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/语音与交互/ROS仿真车/2026-10-23_小车检查点语音播报与本机转发.md",
+      "sha256": "79f93000b3d8a571e7ac724b7218440381d92f179ab456ac1ace1aa6a8690cfa",
+      "source": "项目/ROS仿真车/2026-10-23_小车检查点语音播报与本机转发.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/语音与交互/ROS仿真车/2026-10-25_aic26_ws_speech梳理与风险.md",
+      "sha256": "0ca502122fda140cc04d20dbbaacb22becdb6e176bf14ca4cc00d9c2a5062b56",
+      "source": "项目/ROS仿真车/2026-10-25_aic26_ws_speech梳理与风险.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/语音与交互/ROS仿真车/2026-11-05_AIC26视觉v2实车链路.md",
+      "sha256": "1a554b7a3c30b86d7f1e5269b2ea886865f6cef10f7c78063a95176172d80331",
+      "source": "项目/ROS仿真车/2026-11-05_AIC26视觉v2实车链路.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/09/15/2026-09-15_创建对话整理skill.md",
+      "sha256": "0e9ef4e8473704ef5647cad73109ffff3abd121d1d2e0fbf5f1444d528c740fa",
+      "source": "项目/开发环境/2026-09-15_创建对话整理skill.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/09/15/_当日变更.md",
+      "sha256": "242e479456bd60a7def9fee6e9c4480ba2e1a3a2ee286044f5b8ec8969af570f",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/09/17/2026-09-17_Gazebo导航场地world文件编写.md",
+      "sha256": "63630d9925bd4aa0005d3e9bc85ac99bfab7f968f1e8795a2d46b7c6a862b76c",
+      "source": "项目/ROS仿真车/2026-09-17_Gazebo导航场地world文件编写.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/09/17/_当日变更.md",
+      "sha256": "aefb48fcc7f1a1911d7a06fc310d0b87dec3016e77304340c667aab60157039b",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/09/18/2026-09-18_Gazebo红绿灯时序插件开发排错.md",
+      "sha256": "20b1929dd8bffa9cf0be914c8c66b79068e4fa2dd1206fd6636702bb8baef13b",
+      "source": "项目/ROS仿真车/2026-09-18_Gazebo红绿灯时序插件开发排错.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/09/18/_当日变更.md",
+      "sha256": "2babfd54a4130324aeb46cac89d21092e678746523440a7e82890206979f52ac",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/09/21/2026-09-21_ROS1-waypoint导航与报错修复.md",
+      "sha256": "a8e91108de3ce62db077e5a06ed557a4c71b7ec1503f96e2bd2181c0245af946",
+      "source": "项目/ROS仿真车/2026-09-21_ROS1-waypoint导航与报错修复.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/09/21/2026-09-21_智慧社区复赛导航与视觉方案.md",
+      "sha256": "e76a59c84373d2a4ada34b20a9f33fd2d05803bf279d5d2a22cc2b07e2319dc6",
+      "source": "项目/技术报告/2026-09-21_智慧社区复赛导航与视觉方案.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/09/21/_当日变更.md",
+      "sha256": "3cf04101a04ae7f97b495dc412837bfe3475344a032a2a35a9d69d56b821eb17",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/09/22/2026-09-22_ROS导航停走抖动与平滑巡检.md",
+      "sha256": "07b54224f11d8484e1b77b765753770ef0db0b7aaf90788dd372b7e636a19597",
+      "source": "项目/ROS仿真车/2026-09-22_ROS导航停走抖动与平滑巡检.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/09/22/_当日变更.md",
+      "sha256": "ffcfb45de2dea5d858ac3cf72b3664b0fd81d6541666dc8cfef01fee2662981a",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/09/23/2026-09-23_Docker数据挂载与镜像清理.md",
+      "sha256": "7f2f0787de2e3cd1a9b56e644c12ead469d6464b5f61f5a1563a1407d055410a",
+      "source": "项目/开发环境/2026-09-23_Docker数据挂载与镜像清理.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/09/23/2026-09-23_rviz不显示小车与地图排查.md",
+      "sha256": "cd8f408d1da41856ef9f7fb7f9598528e365f5685d05e8e2131ddf2f0547f79f",
+      "source": "项目/ROS仿真车/2026-09-23_rviz不显示小车与地图排查.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/09/23/2026-09-23_巡逻代码红绿灯视觉停车功能.md",
+      "sha256": "90d5874e8144fd40fab085d8a17b399b56d2bf66df9129259a1bf0a1e83c8727",
+      "source": "项目/ROS仿真车/2026-09-23_巡逻代码红绿灯视觉停车功能.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/09/23/_当日变更.md",
+      "sha256": "004ea9a93ec5b7bdc30dc1dacaf08ea03c690fdf4c19668051ca50f30fe7524b",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/09/27/2026-09-23_rviz不显示小车与地图排查.md",
+      "sha256": "cd8f408d1da41856ef9f7fb7f9598528e365f5685d05e8e2131ddf2f0547f79f",
+      "source": "项目/ROS仿真车/2026-09-23_rviz不显示小车与地图排查.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/09/27/2026-09-27_技术报告框架编写与PDF生成.md",
+      "sha256": "8f6d30ba14b38cb428f8f0cd0f710bfa50eee2d7de04f5f93768c018a47d606e",
+      "source": "项目/技术报告/2026-09-27_技术报告框架编写与PDF生成.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/09/27/_当日变更.md",
+      "sha256": "cef65ff7c459c89e6f3ec464f4494cd17f4a3893054d7691f402e7ba97460c01",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/09/28/2026-09-23_巡逻代码红绿灯视觉停车功能.md",
+      "sha256": "90d5874e8144fd40fab085d8a17b399b56d2bf66df9129259a1bf0a1e83c8727",
+      "source": "项目/ROS仿真车/2026-09-23_巡逻代码红绿灯视觉停车功能.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/09/28/2026-09-27_技术报告框架编写与PDF生成.md",
+      "sha256": "8f6d30ba14b38cb428f8f0cd0f710bfa50eee2d7de04f5f93768c018a47d606e",
+      "source": "项目/技术报告/2026-09-27_技术报告框架编写与PDF生成.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/09/28/_当日变更.md",
+      "sha256": "68220271dcd6d4f871a438f4b8440d5f9d564ca6f34941684c2217202835ebc7",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/09/30/2026-09-23_巡逻代码红绿灯视觉停车功能.md",
+      "sha256": "90d5874e8144fd40fab085d8a17b399b56d2bf66df9129259a1bf0a1e83c8727",
+      "source": "项目/ROS仿真车/2026-09-23_巡逻代码红绿灯视觉停车功能.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/09/30/2026-09-30_Docker容器ROS代码推送GitHub分支.md",
+      "sha256": "98ce348e8e95b1892cf69dd6c840b484b5bb266443bc1eaf299052a71b9ded7d",
+      "source": "项目/开发环境/2026-09-30_Docker容器ROS代码推送GitHub分支.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/09/30/2026-09-30_ROS导航规划器选型与定点旋转.md",
+      "sha256": "61af4dd74fe4e08649aaabcd5f3bf2976b202ca5d5a08620078204a46a70503b",
+      "source": "项目/ROS仿真车/2026-09-30_ROS导航规划器选型与定点旋转.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/09/30/2026-09-30_YOLO视觉模型部署到仿真车.md",
+      "sha256": "2d97e32818b4ef1dc2750bcd9394eaf44dafe14fdf707e9488b8d24613f15a1e",
+      "source": "项目/ROS仿真车/2026-09-30_YOLO视觉模型部署到仿真车.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/09/30/_当日变更.md",
+      "sha256": "1da9f09352dd06a06c845bd5c81dbe6cd7257530c67f7d1e93bd05f2bdd9c0c0",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/01/2026-09-23_巡逻代码红绿灯视觉停车功能.md",
+      "sha256": "90d5874e8144fd40fab085d8a17b399b56d2bf66df9129259a1bf0a1e83c8727",
+      "source": "项目/ROS仿真车/2026-09-23_巡逻代码红绿灯视觉停车功能.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/01/2026-09-30_YOLO视觉模型部署到仿真车.md",
+      "sha256": "2d97e32818b4ef1dc2750bcd9394eaf44dafe14fdf707e9488b8d24613f15a1e",
+      "source": "项目/ROS仿真车/2026-09-30_YOLO视觉模型部署到仿真车.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/01/2026-10-01_ROS视觉代码迁移到真车部署.md",
+      "sha256": "078b010ef07279111f04fcb3b6146b56f18897fad1190a85369db52a7c952b25",
+      "source": "项目/ROS仿真车/2026-10-01_ROS视觉代码迁移到真车部署.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/10/01/_当日变更.md",
+      "sha256": "0965d15afda60b97267010af283ce54280af319d5b491f834917efcf873c3613",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/02/2026-10-01_ROS视觉代码迁移到真车部署.md",
+      "sha256": "078b010ef07279111f04fcb3b6146b56f18897fad1190a85369db52a7c952b25",
+      "source": "项目/ROS仿真车/2026-10-01_ROS视觉代码迁移到真车部署.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/02/2026-10-02_Docker容器Gazebo弹窗到Windows.md",
+      "sha256": "72ed74fa9a00f9ddd1d8a8b9d7a252f31c027b9012b1589bc503a1a232cdac4a",
+      "source": "项目/开发环境/2026-10-02_Docker容器Gazebo弹窗到Windows.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/02/2026-10-02_patrol定点旋转角度不准修复.md",
+      "sha256": "e87ba30b59d5cb68331f1208e8ff97ef31e5699d20d9df35af45fc7516a37261",
+      "source": "项目/ROS仿真车/2026-10-02_patrol定点旋转角度不准修复.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/10/02/_当日变更.md",
+      "sha256": "20b8d4cebf66adecebfdb496ec0d0069f3491ac826f4168e8e0a0186dd5ea92a",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/03/2026-10-03_技术方案文书初稿各章节撰写.md",
+      "sha256": "fb71edfcb84889adc0bc68a672c26932ebe3c31e2239488931045b3481eb0afc",
+      "source": "项目/技术报告/2026-10-03_技术方案文书初稿各章节撰写.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/10/03/_当日变更.md",
+      "sha256": "cb09700cc64d8ecf621085b53655ccbd4124bac60bddb7e2a53ab9e559f2d834",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/04/2026-10-03_技术方案文书初稿各章节撰写.md",
+      "sha256": "fb71edfcb84889adc0bc68a672c26932ebe3c31e2239488931045b3481eb0afc",
+      "source": "项目/技术报告/2026-10-03_技术方案文书初稿各章节撰写.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/10/04/_当日变更.md",
+      "sha256": "b3178525002d4ee0d4cad2ce4a6e7802a85721af21c38d4b68df482009a6f7ae",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/05/2026-10-02_patrol定点旋转角度不准修复.md",
+      "sha256": "e87ba30b59d5cb68331f1208e8ff97ef31e5699d20d9df35af45fc7516a37261",
+      "source": "项目/ROS仿真车/2026-10-02_patrol定点旋转角度不准修复.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/10/05/_当日变更.md",
+      "sha256": "7d72997f5e33cbd99c59f0028d5c32c9ded40578d073aac7a435a126a7f59c18",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/06/2026-10-06_perception包替换为远程版本.md",
+      "sha256": "07b25e557e596130fe60da8a1bfe17c6ae5addb9b19634ea9d447d80b04f4818",
+      "source": "项目/ROS仿真车/2026-10-06_perception包替换为远程版本.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/10/06/_当日变更.md",
+      "sha256": "f6b74ff8fb8dc36a30d81d7c67d712bc389ed7495af7bb7491aca6aa590753f0",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/08/2026-10-08_Chrome安装付费墙绕过扩展.md",
+      "sha256": "9eb49d02b2643b18bb7f378c94992b768b14468d5e96ce1cf3b57738ed872963",
+      "source": "项目/开发环境/2026-10-08_Chrome安装付费墙绕过扩展.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/08/2026-10-08_perception容器版与visual-slam对比.md",
+      "sha256": "d8b09a74a2f57a413f974484eefa25ff8acb12bf0cdbb5f158ac8fc348d50ea0",
+      "source": "项目/ROS仿真车/2026-10-08_perception容器版与visual-slam对比.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/08/2026-10-08_报告代码高亮与参考文献更新.md",
+      "sha256": "0d145c25415b47c1221076cae8f5571084f2791a56a8a916581b4fd9a312f929",
+      "source": "项目/技术报告/2026-10-08_报告代码高亮与参考文献更新.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/08/2026-10-08_车牌OCR识别延迟排查与修复.md",
+      "sha256": "4290fa80038ae9c4597da6689e4a760ec783c08750cd176bf5f1272daa850274",
+      "source": "项目/ROS仿真车/2026-10-08_车牌OCR识别延迟排查与修复.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/10/08/_当日变更.md",
+      "sha256": "ad52a40fae22bbc00ffb1085c49c6d0c8e60a75263be44c9696be23bbc9e929e",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/09/2026-10-09_Claude-Code-effort与DeepSeek实测.md",
+      "sha256": "46696b0217d3b89c459610ea9e8f234476180c6a0884f936cf04e725659ae6d4",
+      "source": "项目/开发环境/2026-10-09_Claude-Code-effort与DeepSeek实测.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/09/2026-10-09_ROS项目移植与环境配方改造.md",
+      "sha256": "1c6a5a0fb829fc4c988450dbc8a279ce6289c7534546d989b2c0b680886a5d9b",
+      "source": "项目/ROS仿真车/2026-10-09_ROS项目移植与环境配方改造.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/09/2026-10-09_视觉节点重构与实机导航适配.md",
+      "sha256": "17ca9992d97b19f9947bb610eb04f0db856b902653c5c196e160aaaf865a4a31",
+      "source": "项目/ROS仿真车/2026-10-09_视觉节点重构与实机导航适配.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/10/09/_当日变更.md",
+      "sha256": "c7a46b9b0eb1ceb8eeed71449c89a5c4d7ca04cfc9e5544d89e1279d03ec789f",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/10/2026-10-02_patrol定点旋转角度不准修复.md",
+      "sha256": "e87ba30b59d5cb68331f1208e8ff97ef31e5699d20d9df35af45fc7516a37261",
+      "source": "项目/ROS仿真车/2026-10-02_patrol定点旋转角度不准修复.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/10/2026-10-03_技术方案文书初稿各章节撰写.md",
+      "sha256": "fb71edfcb84889adc0bc68a672c26932ebe3c31e2239488931045b3481eb0afc",
+      "source": "项目/技术报告/2026-10-03_技术方案文书初稿各章节撰写.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/10/2026-10-10_10月工作梳理.md",
+      "sha256": "735fa4c1988bb2adfb75dd3029c94e28870f659c65c59e87eb9e607632c5487a",
+      "source": "项目/技术报告/2026-10-10_10月工作梳理.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/10/2026-10-10_报告性能测试参数扫描与图表.md",
+      "sha256": "efb3bc0a1295bd21764d21f0043f669807eefca8c7249749ed25c142b83f63df",
+      "source": "项目/技术报告/2026-10-10_报告性能测试参数扫描与图表.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/10/10/_当日变更.md",
+      "sha256": "a9d1c0e827552f5966c28a8d5b86a9c61f0fbb1c10749a19313a003f65b7f80d",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/11/2026-10-10_报告性能测试参数扫描与图表.md",
+      "sha256": "efb3bc0a1295bd21764d21f0043f669807eefca8c7249749ed25c142b83f63df",
+      "source": "项目/技术报告/2026-10-10_报告性能测试参数扫描与图表.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/11/2026-10-11_建图导航视觉代码合集与讲稿制作.md",
+      "sha256": "c35eb5e401fe617b179655d21123d505b8aa7932b5e40805b82d85f0d22a388d",
+      "source": "项目/技术报告/2026-10-11_建图导航视觉代码合集与讲稿制作.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/10/11/_当日变更.md",
+      "sha256": "8ebdd64522875e87f839badd8492b9128f16dabfee872e8e34d3cee5c58c7376",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/12/2026-10-12_报告配图制作与正文章节改写.md",
+      "sha256": "11abb837f9b7a18275d7691ad82ac42affefe07c054c53edda16cf39f6566437",
+      "source": "项目/技术报告/2026-10-12_报告配图制作与正文章节改写.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/10/12/_当日变更.md",
+      "sha256": "36a78a2064c3c4b5e8c4425d0c1ce721775b5788dbda0aa94479bf8f94cbc3c5",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/13/2026-10-13_PPT可编辑矢量配图制作.md",
+      "sha256": "969ba30474d44e3166e0ef175a66e2f490307d69670a8bea6869696879595b0f",
+      "source": "项目/技术报告/2026-10-13_PPT可编辑矢量配图制作.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/10/13/_当日变更.md",
+      "sha256": "9383c851e645c868b414d84e668301afd1d4211494903b1114445288101e09ed",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/15/2026-10-15_E盘清理与C盘瘦身.md",
+      "sha256": "584adc0858503e9ad709e76dfd1a4b94ae84277b586a67fd585f5034d75e5d91",
+      "source": "项目/开发环境/2026-10-15_E盘清理与C盘瘦身.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/15/2026-10-15_显示后端卡在local排查.md",
+      "sha256": "94b2e1f2c5af7cd863b5261a97cfdce430fec7c766d8ada0cc660cf491a33f6d",
+      "source": "项目/开发环境/2026-10-15_显示后端卡在local排查.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/15/2026-10-15_真车迁移导航改TEB局部规划器.md",
+      "sha256": "f073de5f666df4acdacb164f9164f8debf86c837c54fa089d40f6d723ce31b78",
+      "source": "项目/ROS仿真车/2026-10-15_真车迁移导航改TEB局部规划器.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/10/15/_当日变更.md",
+      "sha256": "aa481a57959f82d34157cbdd197abcb49c213baf172c2f8f764a5ba4d12d4471",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/16/2026-10-02_patrol定点旋转角度不准修复.md",
+      "sha256": "e87ba30b59d5cb68331f1208e8ff97ef31e5699d20d9df35af45fc7516a37261",
+      "source": "项目/ROS仿真车/2026-10-02_patrol定点旋转角度不准修复.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/16/2026-10-15_显示后端卡在local排查.md",
+      "sha256": "94b2e1f2c5af7cd863b5261a97cfdce430fec7c766d8ada0cc660cf491a33f6d",
+      "source": "项目/开发环境/2026-10-15_显示后端卡在local排查.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/16/2026-10-15_真车迁移导航改TEB局部规划器.md",
+      "sha256": "f073de5f666df4acdacb164f9164f8debf86c837c54fa089d40f6d723ce31b78",
+      "source": "项目/ROS仿真车/2026-10-15_真车迁移导航改TEB局部规划器.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/10/16/_当日变更.md",
+      "sha256": "194020ea15dac6ad846c1a55e27e044bda77f08bf490179dbca224ea29bc1a00",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/23/2026-10-23_实车Gazebo窗口不显示排查.md",
+      "sha256": "c3cc4df4737e44c702d56233148b28292d8c66fb0619af65c3f68a6306dea6c9",
+      "source": "项目/开发环境/2026-10-23_实车Gazebo窗口不显示排查.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/23/2026-10-23_小车检查点语音播报与本机转发.md",
+      "sha256": "79f93000b3d8a571e7ac724b7218440381d92f179ab456ac1ace1aa6a8690cfa",
+      "source": "项目/ROS仿真车/2026-10-23_小车检查点语音播报与本机转发.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/10/23/_当日变更.md",
+      "sha256": "e588342179df7a51a021eadc020b91c4e52a8560e03dc50d19eb5c255e2567a4",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/25/2026-10-25_Gazebo仿真卡顿优化.md",
+      "sha256": "f7bb480bf82361c5a16b3a24dc2b7b2574fb233ddf64b578c9bc6e2b2eb6512c",
+      "source": "项目/ROS仿真车/2026-10-25_Gazebo仿真卡顿优化.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/25/2026-10-25_aic1023代码审查与关键缺陷.md",
+      "sha256": "5677eb0b2fee869fce945fbd9e2c456e34d11c76baecc4fe5e4763776ae8c180",
+      "source": "项目/ROS仿真车/2026-10-25_aic1023代码审查与关键缺陷.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/25/2026-10-25_aic26_ws_speech梳理与风险.md",
+      "sha256": "0ca502122fda140cc04d20dbbaacb22becdb6e176bf14ca4cc00d9c2a5062b56",
+      "source": "项目/ROS仿真车/2026-10-25_aic26_ws_speech梳理与风险.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/25/2026-10-25_实车航点雷达坐标与膨胀半径调优.md",
+      "sha256": "78ce3ef883e76db710c3b3a5b41dac6853cbcf152fa0c9a5603973e4c2405349",
+      "source": "项目/ROS仿真车/2026-10-25_实车航点雷达坐标与膨胀半径调优.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/25/2026-10-25_导航回退A与转向偏差排查.md",
+      "sha256": "f1e16d4b2fcd735cc7531492c24b4c0bf18cffa6ab77b3f566fa6ea748dece91",
+      "source": "项目/ROS仿真车/2026-10-25_导航回退A与转向偏差排查.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/25/2026-10-25_给ChatGPT分析大项目的打包与强度选型.md",
+      "sha256": "8585bf29911e279f7bba3989dbc425937c77c3803885dd2c6d38ecfce229bab2",
+      "source": "项目/开发环境/2026-10-25_给ChatGPT分析大项目的打包与强度选型.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/10/25/_当日变更.md",
+      "sha256": "f08e2701e69fc9fa7ff70185d60c446533a4ac8c13bac7006ef3de88608b78b3",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/27/2026-10-25_实车航点雷达坐标与膨胀半径调优.md",
+      "sha256": "78ce3ef883e76db710c3b3a5b41dac6853cbcf152fa0c9a5603973e4c2405349",
+      "source": "项目/ROS仿真车/2026-10-25_实车航点雷达坐标与膨胀半径调优.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/27/2026-10-27_aic1027运动控制PID与导航点位稳定性.md",
+      "sha256": "2e41b8830e0ea767891e3cebb9df086cde14a92727dc59c06cc6531c50628f57",
+      "source": "项目/ROS仿真车/2026-10-27_aic1027运动控制PID与导航点位稳定性.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/27/2026-10-27_实车任务栈GUI冻结与图像管线降载.md",
+      "sha256": "e44582f240d4573dda1e7645c106e0725420d759c7cb7790ff849ac74a4bc1f9",
+      "source": "项目/ROS仿真车/2026-10-27_实车任务栈GUI冻结与图像管线降载.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/10/27/_当日变更.md",
+      "sha256": "d08a661c65c12ab498e851a79afaf6507a3b46ffad7458c4196c9585f965b63c",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/28/2026-10-28_aic1027导航压线Astra交接.md",
+      "sha256": "e02f71f71aedb2057b6eb03e715b2c627590669cbc63832d28b7dc517aba3c53",
+      "source": "项目/ROS仿真车/2026-10-28_aic1027导航压线Astra交接.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/10/28/_当日变更.md",
+      "sha256": "7c4cc41fe17331cd0d462d6dfb4a2a8606fd9ccc34701610a03bd0d3e38d12cb",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/10/31/2026-10-31_US3958473专利翻译解读.md",
+      "sha256": "137cb2c31435326e1c632bb422175cc9e3029825fd3b7c76e66353cf1f6032a7",
+      "source": "项目/技术报告/2026-10-31_US3958473专利翻译解读.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/10/31/_当日变更.md",
+      "sha256": "3a76503a9d55e303f83b852dd28deb5dec418bf32bc2e10eca68e307caba0e54",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/11/01/2026-10-27_aic1027运动控制PID与导航点位稳定性.md",
+      "sha256": "2e41b8830e0ea767891e3cebb9df086cde14a92727dc59c06cc6531c50628f57",
+      "source": "项目/ROS仿真车/2026-10-27_aic1027运动控制PID与导航点位稳定性.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/11/01/2026-11-01_AI生产力框架报告.md",
+      "sha256": "4fd475a13c50a4265ad1f7d41776d7b74364acd30a62159868e628ee703d6648",
+      "source": "项目/技术报告/2026-11-01_AI生产力框架报告.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/11/01/2026-11-01_aic26双工作区导航对比与备份.md",
+      "sha256": "3a40cfbee90050c7057ec479707644b47f14c62c14320f6494f9c10b923a6012",
+      "source": "项目/ROS仿真车/2026-11-01_aic26双工作区导航对比与备份.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/11/01/2026-11-01_工厂AMR搬运方案骨架.md",
+      "sha256": "d37642729f6e902ed3e51140bceeeea4d701ec8ea9aa6b9ed972f14eb911408f",
+      "source": "项目/技术报告/2026-11-01_工厂AMR搬运方案骨架.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/11/01/2026-11-01_绕辊清理机器人整机方案.md",
+      "sha256": "f8d53da08ec52cc930d6321d87c8d1fce7df071a46a62076ae8ab0a1bdbce062",
+      "source": "项目/技术报告/2026-11-01_绕辊清理机器人整机方案.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/11/01/_当日变更.md",
+      "sha256": "dc1b85fc3230e60bd426c77d79871ac89c0f3a1e1d5a5ee13ff948eeece6849b",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/11/04/2026-11-04_OpenVINO_int8检测失效修复.md",
+      "sha256": "9a19712672fb653e8e6b9016e8e260ec9162e17c299f3bfcce304763539cedae",
+      "source": "项目/ROS仿真车/2026-11-04_OpenVINO_int8检测失效修复.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/11/04/_当日变更.md",
+      "sha256": "446159705de72af6a29c400212ac78df41ea41bb6c65b627124ef7211e30c0f0",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/11/05/2026-10-23_小车检查点语音播报与本机转发.md",
+      "sha256": "79f93000b3d8a571e7ac724b7218440381d92f179ab456ac1ace1aa6a8690cfa",
+      "source": "项目/ROS仿真车/2026-10-23_小车检查点语音播报与本机转发.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/11/05/2026-11-04_OpenVINO_int8检测失效修复.md",
+      "sha256": "9a19712672fb653e8e6b9016e8e260ec9162e17c299f3bfcce304763539cedae",
+      "source": "项目/ROS仿真车/2026-11-04_OpenVINO_int8检测失效修复.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/11/05/2026-11-05_AIC26视觉v2实车链路.md",
+      "sha256": "1a554b7a3c30b86d7f1e5269b2ea886865f6cef10f7c78063a95176172d80331",
+      "source": "项目/ROS仿真车/2026-11-05_AIC26视觉v2实车链路.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/11/05/_当日变更.md",
+      "sha256": "01588fa7ad73f86c473f5fdfc5e981ba962876454dc989db5b04e13e339bb816",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/11/06/2026-11-05_AIC26视觉v2实车链路.md",
+      "sha256": "1a554b7a3c30b86d7f1e5269b2ea886865f6cef10f7c78063a95176172d80331",
+      "source": "项目/ROS仿真车/2026-11-05_AIC26视觉v2实车链路.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/11/06/2026-11-06_AIC26垃圾桶检测接入与模型路由.md",
+      "sha256": "cd057942853a63b0b94e08030b85301670351f9bd2ef1df1e1fdb8c690348601",
+      "source": "项目/ROS仿真车/2026-11-06_AIC26垃圾桶检测接入与模型路由.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/11/06/2026-11-06_IMU波特率115200适配.md",
+      "sha256": "1a42b5718caafba5eb43046a843853b2061491406feeefd8e4d86a856f50a677",
+      "source": "项目/ROS仿真车/2026-11-06_IMU波特率115200适配.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/11/06/2026-11-06_实车路线people_e窄道规划故障.md",
+      "sha256": "d1f6fdfc5d58bd575014f19d1299496f665e084775bffa2dcabd704cdb3f2509",
+      "source": "项目/ROS仿真车/2026-11-06_实车路线people_e窄道规划故障.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/11/06/_当日变更.md",
+      "sha256": "c005ed1d16af69a1615325e2124c6daab5b5b4851cbcba2ddec378dfd7d22221",
+      "source": ""
+    },
+    {
+      "kind": "readme",
+      "path": "时间线/README.md",
+      "sha256": "1db597090169e238b840c257a4663dd7977cd4a2b18b5a12af8ab475a514f19c",
+      "source": ""
+    },
+    {
+      "kind": "readme",
+      "path": "类型/README.md",
+      "sha256": "7d8c9fae17a5695f6af683638d6721e7425334536a3877885cd37710fe10a84c",
+      "source": ""
+    },
+    {
+      "kind": "type",
+      "path": "类型/元文档/开发环境/2026-09-15_创建对话整理skill.md",
+      "sha256": "0e9ef4e8473704ef5647cad73109ffff3abd121d1d2e0fbf5f1444d528c740fa",
+      "source": "项目/开发环境/2026-09-15_创建对话整理skill.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/元文档/技术报告/2026-10-10_10月工作梳理.md",
+      "sha256": "735fa4c1988bb2adfb75dd3029c94e28870f659c65c59e87eb9e607632c5487a",
+      "source": "项目/技术报告/2026-10-10_10月工作梳理.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/功能开发/ROS仿真车/2026-09-17_Gazebo导航场地world文件编写.md",
+      "sha256": "63630d9925bd4aa0005d3e9bc85ac99bfab7f968f1e8795a2d46b7c6a862b76c",
+      "source": "项目/ROS仿真车/2026-09-17_Gazebo导航场地world文件编写.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/功能开发/ROS仿真车/2026-09-18_Gazebo红绿灯时序插件开发排错.md",
+      "sha256": "20b1929dd8bffa9cf0be914c8c66b79068e4fa2dd1206fd6636702bb8baef13b",
+      "source": "项目/ROS仿真车/2026-09-18_Gazebo红绿灯时序插件开发排错.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/功能开发/ROS仿真车/2026-09-23_巡逻代码红绿灯视觉停车功能.md",
+      "sha256": "90d5874e8144fd40fab085d8a17b399b56d2bf66df9129259a1bf0a1e83c8727",
+      "source": "项目/ROS仿真车/2026-09-23_巡逻代码红绿灯视觉停车功能.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/功能开发/ROS仿真车/2026-10-23_小车检查点语音播报与本机转发.md",
+      "sha256": "79f93000b3d8a571e7ac724b7218440381d92f179ab456ac1ace1aa6a8690cfa",
+      "source": "项目/ROS仿真车/2026-10-23_小车检查点语音播报与本机转发.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/功能开发/ROS仿真车/2026-10-25_aic26_ws_speech梳理与风险.md",
+      "sha256": "0ca502122fda140cc04d20dbbaacb22becdb6e176bf14ca4cc00d9c2a5062b56",
+      "source": "项目/ROS仿真车/2026-10-25_aic26_ws_speech梳理与风险.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/功能开发/ROS仿真车/2026-11-05_AIC26视觉v2实车链路.md",
+      "sha256": "1a554b7a3c30b86d7f1e5269b2ea886865f6cef10f7c78063a95176172d80331",
+      "source": "项目/ROS仿真车/2026-11-05_AIC26视觉v2实车链路.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/功能开发/ROS仿真车/2026-11-06_AIC26垃圾桶检测接入与模型路由.md",
+      "sha256": "cd057942853a63b0b94e08030b85301670351f9bd2ef1df1e1fdb8c690348601",
+      "source": "项目/ROS仿真车/2026-11-06_AIC26垃圾桶检测接入与模型路由.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/参数调优/ROS仿真车/2026-09-22_ROS导航停走抖动与平滑巡检.md",
+      "sha256": "07b54224f11d8484e1b77b765753770ef0db0b7aaf90788dd372b7e636a19597",
+      "source": "项目/ROS仿真车/2026-09-22_ROS导航停走抖动与平滑巡检.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/参数调优/ROS仿真车/2026-10-25_Gazebo仿真卡顿优化.md",
+      "sha256": "f7bb480bf82361c5a16b3a24dc2b7b2574fb233ddf64b578c9bc6e2b2eb6512c",
+      "source": "项目/ROS仿真车/2026-10-25_Gazebo仿真卡顿优化.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/参数调优/ROS仿真车/2026-10-25_实车航点雷达坐标与膨胀半径调优.md",
+      "sha256": "78ce3ef883e76db710c3b3a5b41dac6853cbcf152fa0c9a5603973e4c2405349",
+      "source": "项目/ROS仿真车/2026-10-25_实车航点雷达坐标与膨胀半径调优.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/参数调优/ROS仿真车/2026-10-25_导航回退A与转向偏差排查.md",
+      "sha256": "f1e16d4b2fcd735cc7531492c24b4c0bf18cffa6ab77b3f566fa6ea748dece91",
+      "source": "项目/ROS仿真车/2026-10-25_导航回退A与转向偏差排查.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/参数调优/ROS仿真车/2026-11-06_IMU波特率115200适配.md",
+      "sha256": "1a42b5718caafba5eb43046a843853b2061491406feeefd8e4d86a856f50a677",
+      "source": "项目/ROS仿真车/2026-11-06_IMU波特率115200适配.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/参数调优/技术报告/2026-10-10_报告性能测试参数扫描与图表.md",
+      "sha256": "efb3bc0a1295bd21764d21f0043f669807eefca8c7249749ed25c142b83f63df",
+      "source": "项目/技术报告/2026-10-10_报告性能测试参数扫描与图表.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/报错排查/ROS仿真车/2026-09-21_ROS1-waypoint导航与报错修复.md",
+      "sha256": "a8e91108de3ce62db077e5a06ed557a4c71b7ec1503f96e2bd2181c0245af946",
+      "source": "项目/ROS仿真车/2026-09-21_ROS1-waypoint导航与报错修复.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/报错排查/ROS仿真车/2026-09-23_rviz不显示小车与地图排查.md",
+      "sha256": "cd8f408d1da41856ef9f7fb7f9598528e365f5685d05e8e2131ddf2f0547f79f",
+      "source": "项目/ROS仿真车/2026-09-23_rviz不显示小车与地图排查.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/报错排查/ROS仿真车/2026-10-02_patrol定点旋转角度不准修复.md",
+      "sha256": "e87ba30b59d5cb68331f1208e8ff97ef31e5699d20d9df35af45fc7516a37261",
+      "source": "项目/ROS仿真车/2026-10-02_patrol定点旋转角度不准修复.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/报错排查/ROS仿真车/2026-10-08_车牌OCR识别延迟排查与修复.md",
+      "sha256": "4290fa80038ae9c4597da6689e4a760ec783c08750cd176bf5f1272daa850274",
+      "source": "项目/ROS仿真车/2026-10-08_车牌OCR识别延迟排查与修复.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/报错排查/ROS仿真车/2026-10-25_aic1023代码审查与关键缺陷.md",
+      "sha256": "5677eb0b2fee869fce945fbd9e2c456e34d11c76baecc4fe5e4763776ae8c180",
+      "source": "项目/ROS仿真车/2026-10-25_aic1023代码审查与关键缺陷.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/报错排查/ROS仿真车/2026-10-27_实车任务栈GUI冻结与图像管线降载.md",
+      "sha256": "e44582f240d4573dda1e7645c106e0725420d759c7cb7790ff849ac74a4bc1f9",
+      "source": "项目/ROS仿真车/2026-10-27_实车任务栈GUI冻结与图像管线降载.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/报错排查/ROS仿真车/2026-11-04_OpenVINO_int8检测失效修复.md",
+      "sha256": "9a19712672fb653e8e6b9016e8e260ec9162e17c299f3bfcce304763539cedae",
+      "source": "项目/ROS仿真车/2026-11-04_OpenVINO_int8检测失效修复.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/报错排查/ROS仿真车/2026-11-06_实车路线people_e窄道规划故障.md",
+      "sha256": "d1f6fdfc5d58bd575014f19d1299496f665e084775bffa2dcabd704cdb3f2509",
+      "source": "项目/ROS仿真车/2026-11-06_实车路线people_e窄道规划故障.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/报错排查/开发环境/2026-10-02_Docker容器Gazebo弹窗到Windows.md",
+      "sha256": "72ed74fa9a00f9ddd1d8a8b9d7a252f31c027b9012b1589bc503a1a232cdac4a",
+      "source": "项目/开发环境/2026-10-02_Docker容器Gazebo弹窗到Windows.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/报错排查/开发环境/2026-10-15_显示后端卡在local排查.md",
+      "sha256": "94b2e1f2c5af7cd863b5261a97cfdce430fec7c766d8ada0cc660cf491a33f6d",
+      "source": "项目/开发环境/2026-10-15_显示后端卡在local排查.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/报错排查/开发环境/2026-10-23_实车Gazebo窗口不显示排查.md",
+      "sha256": "c3cc4df4737e44c702d56233148b28292d8c66fb0619af65c3f68a6306dea6c9",
+      "source": "项目/开发环境/2026-10-23_实车Gazebo窗口不显示排查.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/文档写作/技术报告/2026-09-27_技术报告框架编写与PDF生成.md",
+      "sha256": "8f6d30ba14b38cb428f8f0cd0f710bfa50eee2d7de04f5f93768c018a47d606e",
+      "source": "项目/技术报告/2026-09-27_技术报告框架编写与PDF生成.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/文档写作/技术报告/2026-10-03_技术方案文书初稿各章节撰写.md",
+      "sha256": "fb71edfcb84889adc0bc68a672c26932ebe3c31e2239488931045b3481eb0afc",
+      "source": "项目/技术报告/2026-10-03_技术方案文书初稿各章节撰写.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/文档写作/技术报告/2026-10-08_报告代码高亮与参考文献更新.md",
+      "sha256": "0d145c25415b47c1221076cae8f5571084f2791a56a8a916581b4fd9a312f929",
+      "source": "项目/技术报告/2026-10-08_报告代码高亮与参考文献更新.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/文档写作/技术报告/2026-10-11_建图导航视觉代码合集与讲稿制作.md",
+      "sha256": "c35eb5e401fe617b179655d21123d505b8aa7932b5e40805b82d85f0d22a388d",
+      "source": "项目/技术报告/2026-10-11_建图导航视觉代码合集与讲稿制作.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/文档写作/技术报告/2026-10-12_报告配图制作与正文章节改写.md",
+      "sha256": "11abb837f9b7a18275d7691ad82ac42affefe07c054c53edda16cf39f6566437",
+      "source": "项目/技术报告/2026-10-12_报告配图制作与正文章节改写.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/文档写作/技术报告/2026-10-13_PPT可编辑矢量配图制作.md",
+      "sha256": "969ba30474d44e3166e0ef175a66e2f490307d69670a8bea6869696879595b0f",
+      "source": "项目/技术报告/2026-10-13_PPT可编辑矢量配图制作.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/文档写作/技术报告/2026-10-31_US3958473专利翻译解读.md",
+      "sha256": "137cb2c31435326e1c632bb422175cc9e3029825fd3b7c76e66353cf1f6032a7",
+      "source": "项目/技术报告/2026-10-31_US3958473专利翻译解读.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/文档写作/技术报告/2026-11-01_AI生产力框架报告.md",
+      "sha256": "4fd475a13c50a4265ad1f7d41776d7b74364acd30a62159868e628ee703d6648",
+      "source": "项目/技术报告/2026-11-01_AI生产力框架报告.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/方案选型/ROS仿真车/2026-09-30_ROS导航规划器选型与定点旋转.md",
+      "sha256": "61af4dd74fe4e08649aaabcd5f3bf2976b202ca5d5a08620078204a46a70503b",
+      "source": "项目/ROS仿真车/2026-09-30_ROS导航规划器选型与定点旋转.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/方案选型/ROS仿真车/2026-10-08_perception容器版与visual-slam对比.md",
+      "sha256": "d8b09a74a2f57a413f974484eefa25ff8acb12bf0cdbb5f158ac8fc348d50ea0",
+      "source": "项目/ROS仿真车/2026-10-08_perception容器版与visual-slam对比.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/方案选型/ROS仿真车/2026-10-27_aic1027运动控制PID与导航点位稳定性.md",
+      "sha256": "2e41b8830e0ea767891e3cebb9df086cde14a92727dc59c06cc6531c50628f57",
+      "source": "项目/ROS仿真车/2026-10-27_aic1027运动控制PID与导航点位稳定性.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/方案选型/ROS仿真车/2026-10-28_aic1027导航压线Astra交接.md",
+      "sha256": "e02f71f71aedb2057b6eb03e715b2c627590669cbc63832d28b7dc517aba3c53",
+      "source": "项目/ROS仿真车/2026-10-28_aic1027导航压线Astra交接.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/方案选型/ROS仿真车/2026-11-01_aic26双工作区导航对比与备份.md",
+      "sha256": "3a40cfbee90050c7057ec479707644b47f14c62c14320f6494f9c10b923a6012",
+      "source": "项目/ROS仿真车/2026-11-01_aic26双工作区导航对比与备份.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/方案选型/开发环境/2026-10-09_Claude-Code-effort与DeepSeek实测.md",
+      "sha256": "46696b0217d3b89c459610ea9e8f234476180c6a0884f936cf04e725659ae6d4",
+      "source": "项目/开发环境/2026-10-09_Claude-Code-effort与DeepSeek实测.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/方案选型/开发环境/2026-10-25_给ChatGPT分析大项目的打包与强度选型.md",
+      "sha256": "8585bf29911e279f7bba3989dbc425937c77c3803885dd2c6d38ecfce229bab2",
+      "source": "项目/开发环境/2026-10-25_给ChatGPT分析大项目的打包与强度选型.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/方案选型/技术报告/2026-09-21_智慧社区复赛导航与视觉方案.md",
+      "sha256": "e76a59c84373d2a4ada34b20a9f33fd2d05803bf279d5d2a22cc2b07e2319dc6",
+      "source": "项目/技术报告/2026-09-21_智慧社区复赛导航与视觉方案.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/方案选型/技术报告/2026-11-01_工厂AMR搬运方案骨架.md",
+      "sha256": "d37642729f6e902ed3e51140bceeeea4d701ec8ea9aa6b9ed972f14eb911408f",
+      "source": "项目/技术报告/2026-11-01_工厂AMR搬运方案骨架.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/方案选型/技术报告/2026-11-01_绕辊清理机器人整机方案.md",
+      "sha256": "f8d53da08ec52cc930d6321d87c8d1fce7df071a46a62076ae8ab0a1bdbce062",
+      "source": "项目/技术报告/2026-11-01_绕辊清理机器人整机方案.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/环境配置/开发环境/2026-09-23_Docker数据挂载与镜像清理.md",
+      "sha256": "7f2f0787de2e3cd1a9b56e644c12ead469d6464b5f61f5a1563a1407d055410a",
+      "source": "项目/开发环境/2026-09-23_Docker数据挂载与镜像清理.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/环境配置/开发环境/2026-09-30_Docker容器ROS代码推送GitHub分支.md",
+      "sha256": "98ce348e8e95b1892cf69dd6c840b484b5bb266443bc1eaf299052a71b9ded7d",
+      "source": "项目/开发环境/2026-09-30_Docker容器ROS代码推送GitHub分支.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/环境配置/开发环境/2026-10-08_Chrome安装付费墙绕过扩展.md",
+      "sha256": "9eb49d02b2643b18bb7f378c94992b768b14468d5e96ce1cf3b57738ed872963",
+      "source": "项目/开发环境/2026-10-08_Chrome安装付费墙绕过扩展.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/部署迁移/ROS仿真车/2026-09-30_YOLO视觉模型部署到仿真车.md",
+      "sha256": "2d97e32818b4ef1dc2750bcd9394eaf44dafe14fdf707e9488b8d24613f15a1e",
+      "source": "项目/ROS仿真车/2026-09-30_YOLO视觉模型部署到仿真车.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/部署迁移/ROS仿真车/2026-10-01_ROS视觉代码迁移到真车部署.md",
+      "sha256": "078b010ef07279111f04fcb3b6146b56f18897fad1190a85369db52a7c952b25",
+      "source": "项目/ROS仿真车/2026-10-01_ROS视觉代码迁移到真车部署.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/部署迁移/ROS仿真车/2026-10-06_perception包替换为远程版本.md",
+      "sha256": "07b25e557e596130fe60da8a1bfe17c6ae5addb9b19634ea9d447d80b04f4818",
+      "source": "项目/ROS仿真车/2026-10-06_perception包替换为远程版本.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/部署迁移/ROS仿真车/2026-10-09_ROS项目移植与环境配方改造.md",
+      "sha256": "1c6a5a0fb829fc4c988450dbc8a279ce6289c7534546d989b2c0b680886a5d9b",
+      "source": "项目/ROS仿真车/2026-10-09_ROS项目移植与环境配方改造.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/部署迁移/ROS仿真车/2026-10-09_视觉节点重构与实机导航适配.md",
+      "sha256": "17ca9992d97b19f9947bb610eb04f0db856b902653c5c196e160aaaf865a4a31",
+      "source": "项目/ROS仿真车/2026-10-09_视觉节点重构与实机导航适配.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/部署迁移/ROS仿真车/2026-10-15_真车迁移导航改TEB局部规划器.md",
+      "sha256": "f073de5f666df4acdacb164f9164f8debf86c837c54fa089d40f6d723ce31b78",
+      "source": "项目/ROS仿真车/2026-10-15_真车迁移导航改TEB局部规划器.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/部署迁移/开发环境/2026-10-15_E盘清理与C盘瘦身.md",
+      "sha256": "584adc0858503e9ad709e76dfd1a4b94ae84277b586a67fd585f5034d75e5d91",
+      "source": "项目/开发环境/2026-10-15_E盘清理与C盘瘦身.md"
+    },
+    {
+      "kind": "index",
+      "path": "索引/INDEX.md",
+      "sha256": "6127ac4bc5c05c075af625b97d3e876b9e9dc6c65b9ac1db22b2d29a11a03702",
+      "source": ""
+    },
+    {
+      "kind": "readme",
+      "path": "索引/README.md",
+      "sha256": "dcc9dc50b8ebcb1f3ca2e2bcc0e7b878f5d0b7d64197a16e38961d782578921c",
+      "source": ""
+    },
+    {
+      "kind": "index",
+      "path": "索引/TAGS.md",
+      "sha256": "59bc231d3fa3baf7a1c185380f5060403319e6b9b54f7aa30cc41c137d3d9662",
+      "source": ""
+    },
+    {
+      "kind": "index",
+      "path": "索引/按主题.md",
+      "sha256": "0d20d9553dd1e34d309475fe64791c39a087a34df4a2573ccd0cfc3dcfaf5655",
+      "source": ""
+    },
+    {
+      "kind": "index",
+      "path": "索引/按状态.md",
+      "sha256": "f9731664212ff269cbf7564f99e682792a95f58de3c9572023ec3bf007d93728",
+      "source": ""
+    },
+    {
+      "kind": "index",
+      "path": "索引/按类型.md",
+      "sha256": "c3b1169e1d2a78c77a1858ce1144180c2d6cd48284a2fd35c6ff9e69e36b0e8b",
+      "source": ""
+    },
+    {
+      "kind": "index",
+      "path": "索引/月度/2026-09.md",
+      "sha256": "68c37737b99aac9eee8d9b64853abd86f97de931a1c159cd19248f1de4c15ed2",
+      "source": ""
+    },
+    {
+      "kind": "index",
+      "path": "索引/月度/2026-10.md",
+      "sha256": "568941e1ea343291809246d78b2315f9ffc48dc4ae31cb308cd358ad5b7d3189",
+      "source": ""
+    },
+    {
+      "kind": "index",
+      "path": "索引/月度/2026-11.md",
+      "sha256": "2da1ae19cecc702716c3a8f23735d8577148368c6c4797d98cbbe561b268179f",
+      "source": ""
+    }
+  ],
+  "schema": 1,
+  "sources": [
+    {
+      "date": "2026-09-17",
+      "path": "项目/ROS仿真车/2026-09-17_Gazebo导航场地world文件编写.md",
+      "sha256": "63630d9925bd4aa0005d3e9bc85ac99bfab7f968f1e8795a2d46b7c6a862b76c",
+      "updated": "2026-09-17"
+    },
+    {
+      "date": "2026-09-18",
+      "path": "项目/ROS仿真车/2026-09-18_Gazebo红绿灯时序插件开发排错.md",
+      "sha256": "20b1929dd8bffa9cf0be914c8c66b79068e4fa2dd1206fd6636702bb8baef13b",
+      "updated": "2026-09-18"
+    },
+    {
+      "date": "2026-09-21",
+      "path": "项目/ROS仿真车/2026-09-21_ROS1-waypoint导航与报错修复.md",
+      "sha256": "a8e91108de3ce62db077e5a06ed557a4c71b7ec1503f96e2bd2181c0245af946",
+      "updated": "2026-09-21"
+    },
+    {
+      "date": "2026-09-22",
+      "path": "项目/ROS仿真车/2026-09-22_ROS导航停走抖动与平滑巡检.md",
+      "sha256": "07b54224f11d8484e1b77b765753770ef0db0b7aaf90788dd372b7e636a19597",
+      "updated": "2026-09-22"
+    },
+    {
+      "date": "2026-09-23",
+      "path": "项目/ROS仿真车/2026-09-23_rviz不显示小车与地图排查.md",
+      "sha256": "cd8f408d1da41856ef9f7fb7f9598528e365f5685d05e8e2131ddf2f0547f79f",
+      "updated": "2026-09-27"
+    },
+    {
+      "date": "2026-09-23",
+      "path": "项目/ROS仿真车/2026-09-23_巡逻代码红绿灯视觉停车功能.md",
+      "sha256": "90d5874e8144fd40fab085d8a17b399b56d2bf66df9129259a1bf0a1e83c8727",
+      "updated": "2026-10-01"
+    },
+    {
+      "date": "2026-09-30",
+      "path": "项目/ROS仿真车/2026-09-30_ROS导航规划器选型与定点旋转.md",
+      "sha256": "61af4dd74fe4e08649aaabcd5f3bf2976b202ca5d5a08620078204a46a70503b",
+      "updated": "2026-09-30"
+    },
+    {
+      "date": "2026-09-30",
+      "path": "项目/ROS仿真车/2026-09-30_YOLO视觉模型部署到仿真车.md",
+      "sha256": "2d97e32818b4ef1dc2750bcd9394eaf44dafe14fdf707e9488b8d24613f15a1e",
+      "updated": "2026-10-01"
+    },
+    {
+      "date": "2026-10-01",
+      "path": "项目/ROS仿真车/2026-10-01_ROS视觉代码迁移到真车部署.md",
+      "sha256": "078b010ef07279111f04fcb3b6146b56f18897fad1190a85369db52a7c952b25",
+      "updated": "2026-10-02"
+    },
+    {
+      "date": "2026-10-02",
+      "path": "项目/ROS仿真车/2026-10-02_patrol定点旋转角度不准修复.md",
+      "sha256": "e87ba30b59d5cb68331f1208e8ff97ef31e5699d20d9df35af45fc7516a37261",
+      "updated": "2026-10-16"
+    },
+    {
+      "date": "2026-10-06",
+      "path": "项目/ROS仿真车/2026-10-06_perception包替换为远程版本.md",
+      "sha256": "07b25e557e596130fe60da8a1bfe17c6ae5addb9b19634ea9d447d80b04f4818",
+      "updated": "2026-10-06"
+    },
+    {
+      "date": "2026-10-08",
+      "path": "项目/ROS仿真车/2026-10-08_perception容器版与visual-slam对比.md",
+      "sha256": "d8b09a74a2f57a413f974484eefa25ff8acb12bf0cdbb5f158ac8fc348d50ea0",
+      "updated": "2026-10-08"
+    },
+    {
+      "date": "2026-10-08",
+      "path": "项目/ROS仿真车/2026-10-08_车牌OCR识别延迟排查与修复.md",
+      "sha256": "4290fa80038ae9c4597da6689e4a760ec783c08750cd176bf5f1272daa850274",
+      "updated": "2026-10-08"
+    },
+    {
+      "date": "2026-10-09",
+      "path": "项目/ROS仿真车/2026-10-09_ROS项目移植与环境配方改造.md",
+      "sha256": "1c6a5a0fb829fc4c988450dbc8a279ce6289c7534546d989b2c0b680886a5d9b",
+      "updated": "2026-10-09"
+    },
+    {
+      "date": "2026-10-09",
+      "path": "项目/ROS仿真车/2026-10-09_视觉节点重构与实机导航适配.md",
+      "sha256": "17ca9992d97b19f9947bb610eb04f0db856b902653c5c196e160aaaf865a4a31",
+      "updated": "2026-10-09"
+    },
+    {
+      "date": "2026-10-15",
+      "path": "项目/ROS仿真车/2026-10-15_真车迁移导航改TEB局部规划器.md",
+      "sha256": "f073de5f666df4acdacb164f9164f8debf86c837c54fa089d40f6d723ce31b78",
+      "updated": "2026-10-16"
+    },
+    {
+      "date": "2026-10-23",
+      "path": "项目/ROS仿真车/2026-10-23_小车检查点语音播报与本机转发.md",
+      "sha256": "79f93000b3d8a571e7ac724b7218440381d92f179ab456ac1ace1aa6a8690cfa",
+      "updated": "2026-11-05"
+    },
+    {
+      "date": "2026-10-25",
+      "path": "项目/ROS仿真车/2026-10-25_Gazebo仿真卡顿优化.md",
+      "sha256": "f7bb480bf82361c5a16b3a24dc2b7b2574fb233ddf64b578c9bc6e2b2eb6512c",
+      "updated": "2026-10-25"
+    },
+    {
+      "date": "2026-10-25",
+      "path": "项目/ROS仿真车/2026-10-25_aic1023代码审查与关键缺陷.md",
+      "sha256": "5677eb0b2fee869fce945fbd9e2c456e34d11c76baecc4fe5e4763776ae8c180",
+      "updated": "2026-10-25"
+    },
+    {
+      "date": "2026-10-25",
+      "path": "项目/ROS仿真车/2026-10-25_aic26_ws_speech梳理与风险.md",
+      "sha256": "0ca502122fda140cc04d20dbbaacb22becdb6e176bf14ca4cc00d9c2a5062b56",
+      "updated": "2026-10-25"
+    },
+    {
+      "date": "2026-10-25",
+      "path": "项目/ROS仿真车/2026-10-25_实车航点雷达坐标与膨胀半径调优.md",
+      "sha256": "78ce3ef883e76db710c3b3a5b41dac6853cbcf152fa0c9a5603973e4c2405349",
+      "updated": "2026-10-27"
+    },
+    {
+      "date": "2026-10-25",
+      "path": "项目/ROS仿真车/2026-10-25_导航回退A与转向偏差排查.md",
+      "sha256": "f1e16d4b2fcd735cc7531492c24b4c0bf18cffa6ab77b3f566fa6ea748dece91",
+      "updated": "2026-10-25"
+    },
+    {
+      "date": "2026-10-27",
+      "path": "项目/ROS仿真车/2026-10-27_aic1027运动控制PID与导航点位稳定性.md",
+      "sha256": "2e41b8830e0ea767891e3cebb9df086cde14a92727dc59c06cc6531c50628f57",
+      "updated": "2026-11-01"
+    },
+    {
+      "date": "2026-10-27",
+      "path": "项目/ROS仿真车/2026-10-27_实车任务栈GUI冻结与图像管线降载.md",
+      "sha256": "e44582f240d4573dda1e7645c106e0725420d759c7cb7790ff849ac74a4bc1f9",
+      "updated": "2026-10-27"
+    },
+    {
+      "date": "2026-10-28",
+      "path": "项目/ROS仿真车/2026-10-28_aic1027导航压线Astra交接.md",
+      "sha256": "e02f71f71aedb2057b6eb03e715b2c627590669cbc63832d28b7dc517aba3c53",
+      "updated": "2026-10-28"
+    },
+    {
+      "date": "2026-11-01",
+      "path": "项目/ROS仿真车/2026-11-01_aic26双工作区导航对比与备份.md",
+      "sha256": "3a40cfbee90050c7057ec479707644b47f14c62c14320f6494f9c10b923a6012",
+      "updated": "2026-11-01"
+    },
+    {
+      "date": "2026-11-04",
+      "path": "项目/ROS仿真车/2026-11-04_OpenVINO_int8检测失效修复.md",
+      "sha256": "9a19712672fb653e8e6b9016e8e260ec9162e17c299f3bfcce304763539cedae",
+      "updated": "2026-11-05"
+    },
+    {
+      "date": "2026-11-05",
+      "path": "项目/ROS仿真车/2026-11-05_AIC26视觉v2实车链路.md",
+      "sha256": "1a554b7a3c30b86d7f1e5269b2ea886865f6cef10f7c78063a95176172d80331",
+      "updated": "2026-11-06"
+    },
+    {
+      "date": "2026-11-06",
+      "path": "项目/ROS仿真车/2026-11-06_AIC26垃圾桶检测接入与模型路由.md",
+      "sha256": "cd057942853a63b0b94e08030b85301670351f9bd2ef1df1e1fdb8c690348601",
+      "updated": "2026-11-06"
+    },
+    {
+      "date": "2026-11-06",
+      "path": "项目/ROS仿真车/2026-11-06_IMU波特率115200适配.md",
+      "sha256": "1a42b5718caafba5eb43046a843853b2061491406feeefd8e4d86a856f50a677",
+      "updated": "2026-11-06"
+    },
+    {
+      "date": "2026-11-06",
+      "path": "项目/ROS仿真车/2026-11-06_实车路线people_e窄道规划故障.md",
+      "sha256": "d1f6fdfc5d58bd575014f19d1299496f665e084775bffa2dcabd704cdb3f2509",
+      "updated": "2026-11-06"
+    },
+    {
+      "date": "2026-09-15",
+      "path": "项目/开发环境/2026-09-15_创建对话整理skill.md",
+      "sha256": "0e9ef4e8473704ef5647cad73109ffff3abd121d1d2e0fbf5f1444d528c740fa",
+      "updated": "2026-09-15"
+    },
+    {
+      "date": "2026-09-23",
+      "path": "项目/开发环境/2026-09-23_Docker数据挂载与镜像清理.md",
+      "sha256": "7f2f0787de2e3cd1a9b56e644c12ead469d6464b5f61f5a1563a1407d055410a",
+      "updated": "2026-09-23"
+    },
+    {
+      "date": "2026-09-30",
+      "path": "项目/开发环境/2026-09-30_Docker容器ROS代码推送GitHub分支.md",
+      "sha256": "98ce348e8e95b1892cf69dd6c840b484b5bb266443bc1eaf299052a71b9ded7d",
+      "updated": "2026-09-30"
+    },
+    {
+      "date": "2026-10-02",
+      "path": "项目/开发环境/2026-10-02_Docker容器Gazebo弹窗到Windows.md",
+      "sha256": "72ed74fa9a00f9ddd1d8a8b9d7a252f31c027b9012b1589bc503a1a232cdac4a",
+      "updated": "2026-10-02"
+    },
+    {
+      "date": "2026-10-08",
+      "path": "项目/开发环境/2026-10-08_Chrome安装付费墙绕过扩展.md",
+      "sha256": "9eb49d02b2643b18bb7f378c94992b768b14468d5e96ce1cf3b57738ed872963",
+      "updated": "2026-10-08"
+    },
+    {
+      "date": "2026-10-09",
+      "path": "项目/开发环境/2026-10-09_Claude-Code-effort与DeepSeek实测.md",
+      "sha256": "46696b0217d3b89c459610ea9e8f234476180c6a0884f936cf04e725659ae6d4",
+      "updated": "2026-10-09"
+    },
+    {
+      "date": "2026-10-15",
+      "path": "项目/开发环境/2026-10-15_E盘清理与C盘瘦身.md",
+      "sha256": "584adc0858503e9ad709e76dfd1a4b94ae84277b586a67fd585f5034d75e5d91",
+      "updated": "2026-10-15"
+    },
+    {
+      "date": "2026-10-15",
+      "path": "项目/开发环境/2026-10-15_显示后端卡在local排查.md",
+      "sha256": "94b2e1f2c5af7cd863b5261a97cfdce430fec7c766d8ada0cc660cf491a33f6d",
+      "updated": "2026-10-16"
+    },
+    {
+      "date": "2026-10-23",
+      "path": "项目/开发环境/2026-10-23_实车Gazebo窗口不显示排查.md",
+      "sha256": "c3cc4df4737e44c702d56233148b28292d8c66fb0619af65c3f68a6306dea6c9",
+      "updated": "2026-10-23"
+    },
+    {
+      "date": "2026-10-25",
+      "path": "项目/开发环境/2026-10-25_给ChatGPT分析大项目的打包与强度选型.md",
+      "sha256": "8585bf29911e279f7bba3989dbc425937c77c3803885dd2c6d38ecfce229bab2",
+      "updated": "2026-10-25"
+    },
+    {
+      "date": "2026-09-21",
+      "path": "项目/技术报告/2026-09-21_智慧社区复赛导航与视觉方案.md",
+      "sha256": "e76a59c84373d2a4ada34b20a9f33fd2d05803bf279d5d2a22cc2b07e2319dc6",
+      "updated": "2026-09-21"
+    },
+    {
+      "date": "2026-09-27",
+      "path": "项目/技术报告/2026-09-27_技术报告框架编写与PDF生成.md",
+      "sha256": "8f6d30ba14b38cb428f8f0cd0f710bfa50eee2d7de04f5f93768c018a47d606e",
+      "updated": "2026-09-28"
+    },
+    {
+      "date": "2026-10-03",
+      "path": "项目/技术报告/2026-10-03_技术方案文书初稿各章节撰写.md",
+      "sha256": "fb71edfcb84889adc0bc68a672c26932ebe3c31e2239488931045b3481eb0afc",
+      "updated": "2026-10-10"
+    },
+    {
+      "date": "2026-10-08",
+      "path": "项目/技术报告/2026-10-08_报告代码高亮与参考文献更新.md",
+      "sha256": "0d145c25415b47c1221076cae8f5571084f2791a56a8a916581b4fd9a312f929",
+      "updated": "2026-10-08"
+    },
+    {
+      "date": "2026-10-10",
+      "path": "项目/技术报告/2026-10-10_10月工作梳理.md",
+      "sha256": "735fa4c1988bb2adfb75dd3029c94e28870f659c65c59e87eb9e607632c5487a",
+      "updated": "2026-10-10"
+    },
+    {
+      "date": "2026-10-10",
+      "path": "项目/技术报告/2026-10-10_报告性能测试参数扫描与图表.md",
+      "sha256": "efb3bc0a1295bd21764d21f0043f669807eefca8c7249749ed25c142b83f63df",
+      "updated": "2026-10-11"
+    },
+    {
+      "date": "2026-10-11",
+      "path": "项目/技术报告/2026-10-11_建图导航视觉代码合集与讲稿制作.md",
+      "sha256": "c35eb5e401fe617b179655d21123d505b8aa7932b5e40805b82d85f0d22a388d",
+      "updated": "2026-10-11"
+    },
+    {
+      "date": "2026-10-12",
+      "path": "项目/技术报告/2026-10-12_报告配图制作与正文章节改写.md",
+      "sha256": "11abb837f9b7a18275d7691ad82ac42affefe07c054c53edda16cf39f6566437",
+      "updated": "2026-10-12"
+    },
+    {
+      "date": "2026-10-13",
+      "path": "项目/技术报告/2026-10-13_PPT可编辑矢量配图制作.md",
+      "sha256": "969ba30474d44e3166e0ef175a66e2f490307d69670a8bea6869696879595b0f",
+      "updated": "2026-10-13"
+    },
+    {
+      "date": "2026-10-31",
+      "path": "项目/技术报告/2026-10-31_US3958473专利翻译解读.md",
+      "sha256": "137cb2c31435326e1c632bb422175cc9e3029825fd3b7c76e66353cf1f6032a7",
+      "updated": "2026-10-31"
+    },
+    {
+      "date": "2026-11-01",
+      "path": "项目/技术报告/2026-11-01_AI生产力框架报告.md",
+      "sha256": "4fd475a13c50a4265ad1f7d41776d7b74364acd30a62159868e628ee703d6648",
+      "updated": "2026-11-01"
+    },
+    {
+      "date": "2026-11-01",
+      "path": "项目/技术报告/2026-11-01_工厂AMR搬运方案骨架.md",
+      "sha256": "d37642729f6e902ed3e51140bceeeea4d701ec8ea9aa6b9ed972f14eb911408f",
+      "updated": "2026-11-01"
+    },
+    {
+      "date": "2026-11-01",
+      "path": "项目/技术报告/2026-11-01_绕辊清理机器人整机方案.md",
+      "sha256": "f8d53da08ec52cc930d6321d87c8d1fce7df071a46a62076ae8ab0a1bdbce062",
+      "updated": "2026-11-01"
+    }
+  ]
+}
