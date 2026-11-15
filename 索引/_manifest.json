@@ -236,6 +236,12 @@
     },
     {
       "kind": "theme",
+      "path": "主题/感知与视觉/ROS仿真车/2026-11-15_AIC26实车相机与视觉检测稳定性排障.md",
+      "sha256": "0cdc3cfff17d4b483273ecf3dec581325c4d91d0528062aed1fa5e27185746e6",
+      "source": "项目/ROS仿真车/2026-11-15_AIC26实车相机与视觉检测稳定性排障.md"
+    },
+    {
+      "kind": "theme",
       "path": "主题/感知与视觉/技术报告/2026-09-21_智慧社区复赛导航与视觉方案.md",
       "sha256": "e76a59c84373d2a4ada34b20a9f33fd2d05803bf279d5d2a22cc2b07e2319dc6",
       "source": "项目/技术报告/2026-09-21_智慧社区复赛导航与视觉方案.md"
@@ -443,6 +449,12 @@
       "path": "主题/硬件与调试/ROS仿真车/2026-11-06_IMU波特率115200适配.md",
       "sha256": "1a42b5718caafba5eb43046a843853b2061491406feeefd8e4d86a856f50a677",
       "source": "项目/ROS仿真车/2026-11-06_IMU波特率115200适配.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/硬件与调试/ROS仿真车/2026-11-15_AIC26实车相机与视觉检测稳定性排障.md",
+      "sha256": "0cdc3cfff17d4b483273ecf3dec581325c4d91d0528062aed1fa5e27185746e6",
+      "source": "项目/ROS仿真车/2026-11-15_AIC26实车相机与视觉检测稳定性排障.md"
     },
     {
       "kind": "theme",
@@ -1111,6 +1123,18 @@
       "source": ""
     },
     {
+      "kind": "timeline",
+      "path": "时间线/2026/11/15/2026-11-15_AIC26实车相机与视觉检测稳定性排障.md",
+      "sha256": "0cdc3cfff17d4b483273ecf3dec581325c4d91d0528062aed1fa5e27185746e6",
+      "source": "项目/ROS仿真车/2026-11-15_AIC26实车相机与视觉检测稳定性排障.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/11/15/_当日变更.md",
+      "sha256": "8b4fa0d01d0b8ccacb7f58ffb538cbc879e7063c988336e563f93772a4f7099f",
+      "source": ""
+    },
+    {
       "kind": "readme",
       "path": "时间线/README.md",
       "sha256": "1db597090169e238b840c257a4663dd7977cd4a2b18b5a12af8ab475a514f19c",
@@ -1259,6 +1283,12 @@
       "path": "类型/报错排查/ROS仿真车/2026-11-06_实车路线people_e窄道规划故障.md",
       "sha256": "d1f6fdfc5d58bd575014f19d1299496f665e084775bffa2dcabd704cdb3f2509",
       "source": "项目/ROS仿真车/2026-11-06_实车路线people_e窄道规划故障.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/报错排查/ROS仿真车/2026-11-15_AIC26实车相机与视觉检测稳定性排障.md",
+      "sha256": "0cdc3cfff17d4b483273ecf3dec581325c4d91d0528062aed1fa5e27185746e6",
+      "source": "项目/ROS仿真车/2026-11-15_AIC26实车相机与视觉检测稳定性排障.md"
     },
     {
       "kind": "type",
@@ -1449,7 +1479,7 @@
     {
       "kind": "index",
       "path": "索引/INDEX.md",
-      "sha256": "6127ac4bc5c05c075af625b97d3e876b9e9dc6c65b9ac1db22b2d29a11a03702",
+      "sha256": "df359cb0ad4d6329ac7dcd92153e7329f314f810e34973b62dfc6f53f717b83e",
       "source": ""
     },
     {
@@ -1461,25 +1491,25 @@
     {
       "kind": "index",
       "path": "索引/TAGS.md",
-      "sha256": "59bc231d3fa3baf7a1c185380f5060403319e6b9b54f7aa30cc41c137d3d9662",
+      "sha256": "9d2ef22981472bcc91e58b41d63ee786c0a11c36c12230c6111ef27c69ee6ed1",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按主题.md",
-      "sha256": "0d20d9553dd1e34d309475fe64791c39a087a34df4a2573ccd0cfc3dcfaf5655",
+      "sha256": "2fb08cc4b49f4f10db206cb5db1c0fc3aa5f1697946da89e45565f3774d3fa8c",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按状态.md",
-      "sha256": "f9731664212ff269cbf7564f99e682792a95f58de3c9572023ec3bf007d93728",
+      "sha256": "c01caf59c3cd2e2cd2014dccf4167548ac34a2b6e2149195a761c395dcdcfb11",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按类型.md",
-      "sha256": "c3b1169e1d2a78c77a1858ce1144180c2d6cd48284a2fd35c6ff9e69e36b0e8b",
+      "sha256": "99c64cbdfcc3f4b1fce54441b3bd37225af2ee131c1b5dfe746709545f232ac9",
       "source": ""
     },
     {
@@ -1497,7 +1527,7 @@
     {
       "kind": "index",
       "path": "索引/月度/2026-11.md",
-      "sha256": "2da1ae19cecc702716c3a8f23735d8577148368c6c4797d98cbbe561b268179f",
+      "sha256": "2bbf319d480dd0a387d443c31e73df7f0d2aec873bb8dca8083fb41855781893",
       "source": ""
     }
   ],
@@ -1688,6 +1718,12 @@
       "path": "项目/ROS仿真车/2026-11-06_实车路线people_e窄道规划故障.md",
       "sha256": "d1f6fdfc5d58bd575014f19d1299496f665e084775bffa2dcabd704cdb3f2509",
       "updated": "2026-11-06"
+    },
+    {
+      "date": "2026-11-15",
+      "path": "项目/ROS仿真车/2026-11-15_AIC26实车相机与视觉检测稳定性排障.md",
+      "sha256": "0cdc3cfff17d4b483273ecf3dec581325c4d91d0528062aed1fa5e27185746e6",
+      "updated": "2026-11-15"
     },
     {
       "date": "2026-09-15",
