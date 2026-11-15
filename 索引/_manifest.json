@@ -254,6 +254,12 @@
     },
     {
       "kind": "theme",
+      "path": "主题/感知与视觉/ROS仿真车/2026-11-15_DELI9011温湿度表盘读数方案.md",
+      "sha256": "0388188db48583db97d2e9ef8a0936527461f9c808903eb5689601a38bd15b4d",
+      "source": "项目/ROS仿真车/2026-11-15_DELI9011温湿度表盘读数方案.md"
+    },
+    {
+      "kind": "theme",
       "path": "主题/感知与视觉/ROS仿真车/2026-11-15_实车车牌OCR更换PaddleOCR.md",
       "sha256": "b1e8dc95bbd2b8aa2e295cc89226140327e5f7decc542e353ad28fb7008a8a80",
       "source": "项目/ROS仿真车/2026-11-15_实车车牌OCR更换PaddleOCR.md"
@@ -329,6 +335,12 @@
       "path": "主题/文档与配图/技术报告/2026-11-01_AI生产力框架报告.md",
       "sha256": "4fd475a13c50a4265ad1f7d41776d7b74364acd30a62159868e628ee703d6648",
       "source": "项目/技术报告/2026-11-01_AI生产力框架报告.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/方案与选型/ROS仿真车/2026-11-15_DELI9011温湿度表盘读数方案.md",
+      "sha256": "0388188db48583db97d2e9ef8a0936527461f9c808903eb5689601a38bd15b4d",
+      "source": "项目/ROS仿真车/2026-11-15_DELI9011温湿度表盘读数方案.md"
     },
     {
       "kind": "theme",
@@ -437,6 +449,12 @@
       "path": "主题/环境与工具链/开发环境/2026-10-25_给ChatGPT分析大项目的打包与强度选型.md",
       "sha256": "8585bf29911e279f7bba3989dbc425937c77c3803885dd2c6d38ecfce229bab2",
       "source": "项目/开发环境/2026-10-25_给ChatGPT分析大项目的打包与强度选型.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/环境与工具链/开发环境/2026-11-15_RTX5060_YOLO训练环境搭建.md",
+      "sha256": "df17715a66af674aef9a2e457031964724f978afa618af1a6d6bdde41e04d0d4",
+      "source": "项目/开发环境/2026-11-15_RTX5060_YOLO训练环境搭建.md"
     },
     {
       "kind": "theme",
@@ -1160,6 +1178,18 @@
     },
     {
       "kind": "timeline",
+      "path": "时间线/2026/11/15/2026-11-15_DELI9011温湿度表盘读数方案.md",
+      "sha256": "0388188db48583db97d2e9ef8a0936527461f9c808903eb5689601a38bd15b4d",
+      "source": "项目/ROS仿真车/2026-11-15_DELI9011温湿度表盘读数方案.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/11/15/2026-11-15_RTX5060_YOLO训练环境搭建.md",
+      "sha256": "df17715a66af674aef9a2e457031964724f978afa618af1a6d6bdde41e04d0d4",
+      "source": "项目/开发环境/2026-11-15_RTX5060_YOLO训练环境搭建.md"
+    },
+    {
+      "kind": "timeline",
       "path": "时间线/2026/11/15/2026-11-15_实车车牌OCR更换PaddleOCR.md",
       "sha256": "b1e8dc95bbd2b8aa2e295cc89226140327e5f7decc542e353ad28fb7008a8a80",
       "source": "项目/ROS仿真车/2026-11-15_实车车牌OCR更换PaddleOCR.md"
@@ -1173,7 +1203,7 @@
     {
       "kind": "day",
       "path": "时间线/2026/11/15/_当日变更.md",
-      "sha256": "138936f221b67a7dfebaab52de732341dfcc5cbd7395a9ee3a3f63c554433f3e",
+      "sha256": "fd80f1cdedd3e5354bcd9a2f2eb5c08161ab29398a654212e62bf21adc2b0a0c",
       "source": ""
     },
     {
@@ -1448,6 +1478,12 @@
     },
     {
       "kind": "type",
+      "path": "类型/方案选型/ROS仿真车/2026-11-15_DELI9011温湿度表盘读数方案.md",
+      "sha256": "0388188db48583db97d2e9ef8a0936527461f9c808903eb5689601a38bd15b4d",
+      "source": "项目/ROS仿真车/2026-11-15_DELI9011温湿度表盘读数方案.md"
+    },
+    {
+      "kind": "type",
       "path": "类型/方案选型/开发环境/2026-10-09_Claude-Code-effort与DeepSeek实测.md",
       "sha256": "46696b0217d3b89c459610ea9e8f234476180c6a0884f936cf04e725659ae6d4",
       "source": "项目/开发环境/2026-10-09_Claude-Code-effort与DeepSeek实测.md"
@@ -1496,6 +1532,12 @@
     },
     {
       "kind": "type",
+      "path": "类型/环境配置/开发环境/2026-11-15_RTX5060_YOLO训练环境搭建.md",
+      "sha256": "df17715a66af674aef9a2e457031964724f978afa618af1a6d6bdde41e04d0d4",
+      "source": "项目/开发环境/2026-11-15_RTX5060_YOLO训练环境搭建.md"
+    },
+    {
+      "kind": "type",
       "path": "类型/部署迁移/ROS仿真车/2026-09-30_YOLO视觉模型部署到仿真车.md",
       "sha256": "2d97e32818b4ef1dc2750bcd9394eaf44dafe14fdf707e9488b8d24613f15a1e",
       "source": "项目/ROS仿真车/2026-09-30_YOLO视觉模型部署到仿真车.md"
@@ -1539,7 +1581,7 @@
     {
       "kind": "index",
       "path": "索引/INDEX.md",
-      "sha256": "254daf60b2512b82e71c806a9bd61897905ce87a745e0c8397c888de869e252a",
+      "sha256": "fe1368bd37f69e2e7879a093f48f99bea3c14fd8202de8e7a9f7f86a4d73538d",
       "source": ""
     },
     {
@@ -1551,25 +1593,25 @@
     {
       "kind": "index",
       "path": "索引/TAGS.md",
-      "sha256": "a073a84bdd6aec82cfdd08f0d471c163c5e078e88c3ecec3742294c1d71c6dea",
+      "sha256": "155c22eab636da1615e352e987adb0af3a3acec1c21c20ba364920af87558bfc",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按主题.md",
-      "sha256": "841eafc2219e04fb5217d05ad8833229107ee7c95b61ea97e2c7d12b4dbd0579",
+      "sha256": "bb975635430abf0ea8c8cef307ad281b1595805d27ae22d3820445d6b79e42c2",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按状态.md",
-      "sha256": "2a7b0959d0e54f294b6db9feae50354f1b0a04d71a43f330b1e497c27cf4f02a",
+      "sha256": "0cb2051e0f0ae853d540d477c8b3a9722bbde920da6ed8427a3e14eed83bcc43",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按类型.md",
-      "sha256": "d01ce3b9584b89069ff2a040fb1ad7a1ea31940cce39c56d4286466005093ad1",
+      "sha256": "d36d8588a2a8af86d67a2566c6f71f86588cbbb3b4095fcf06a2a204d3a98d37",
       "source": ""
     },
     {
@@ -1587,7 +1629,7 @@
     {
       "kind": "index",
       "path": "索引/月度/2026-11.md",
-      "sha256": "3543b086759754a31b1714fa5e8d125b2b752d93c0e12d92dba9ae25c5e8969c",
+      "sha256": "f6739a8f1ef8a660c0d79809d1506a40f650284309ca30286bd8dc93719ed501",
       "source": ""
     }
   ],
@@ -1793,6 +1835,12 @@
     },
     {
       "date": "2026-11-15",
+      "path": "项目/ROS仿真车/2026-11-15_DELI9011温湿度表盘读数方案.md",
+      "sha256": "0388188db48583db97d2e9ef8a0936527461f9c808903eb5689601a38bd15b4d",
+      "updated": "2026-11-15"
+    },
+    {
+      "date": "2026-11-15",
       "path": "项目/ROS仿真车/2026-11-15_实车车牌OCR更换PaddleOCR.md",
       "sha256": "b1e8dc95bbd2b8aa2e295cc89226140327e5f7decc542e353ad28fb7008a8a80",
       "updated": "2026-11-15"
@@ -1862,6 +1910,12 @@
       "path": "项目/开发环境/2026-10-25_给ChatGPT分析大项目的打包与强度选型.md",
       "sha256": "8585bf29911e279f7bba3989dbc425937c77c3803885dd2c6d38ecfce229bab2",
       "updated": "2026-10-25"
+    },
+    {
+      "date": "2026-11-15",
+      "path": "项目/开发环境/2026-11-15_RTX5060_YOLO训练环境搭建.md",
+      "sha256": "df17715a66af674aef9a2e457031964724f978afa618af1a6d6bdde41e04d0d4",
+      "updated": "2026-11-15"
     },
     {
       "date": "2026-09-21",
