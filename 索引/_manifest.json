@@ -152,6 +152,12 @@
     },
     {
       "kind": "theme",
+      "path": "主题/导航与运动控制/ROS仿真车/2026-11-15_实车门口卡顿航点格角修复.md",
+      "sha256": "489879ef86ab50e5e6c60cff52818dfc76676110516abb5a94c6ce396b604326",
+      "source": "项目/ROS仿真车/2026-11-15_实车门口卡顿航点格角修复.md"
+    },
+    {
+      "kind": "theme",
       "path": "主题/导航与运动控制/技术报告/2026-09-21_智慧社区复赛导航与视觉方案.md",
       "sha256": "e76a59c84373d2a4ada34b20a9f33fd2d05803bf279d5d2a22cc2b07e2319dc6",
       "source": "项目/技术报告/2026-09-21_智慧社区复赛导航与视觉方案.md"
@@ -1159,9 +1165,15 @@
       "source": "项目/ROS仿真车/2026-11-15_实车车牌OCR更换PaddleOCR.md"
     },
     {
+      "kind": "timeline",
+      "path": "时间线/2026/11/15/2026-11-15_实车门口卡顿航点格角修复.md",
+      "sha256": "489879ef86ab50e5e6c60cff52818dfc76676110516abb5a94c6ce396b604326",
+      "source": "项目/ROS仿真车/2026-11-15_实车门口卡顿航点格角修复.md"
+    },
+    {
       "kind": "day",
       "path": "时间线/2026/11/15/_当日变更.md",
-      "sha256": "6d1d236201e0658738583ffee52e2ea1d824a90aac92a62a7bbce7af257ebfdd",
+      "sha256": "138936f221b67a7dfebaab52de732341dfcc5cbd7395a9ee3a3f63c554433f3e",
       "source": ""
     },
     {
@@ -1331,6 +1343,12 @@
       "path": "类型/报错排查/ROS仿真车/2026-11-15_AIC26实车相机与视觉检测稳定性排障.md",
       "sha256": "0cdc3cfff17d4b483273ecf3dec581325c4d91d0528062aed1fa5e27185746e6",
       "source": "项目/ROS仿真车/2026-11-15_AIC26实车相机与视觉检测稳定性排障.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/报错排查/ROS仿真车/2026-11-15_实车门口卡顿航点格角修复.md",
+      "sha256": "489879ef86ab50e5e6c60cff52818dfc76676110516abb5a94c6ce396b604326",
+      "source": "项目/ROS仿真车/2026-11-15_实车门口卡顿航点格角修复.md"
     },
     {
       "kind": "type",
@@ -1521,7 +1539,7 @@
     {
       "kind": "index",
       "path": "索引/INDEX.md",
-      "sha256": "4388f6607e287bd6663c5c4630b41ba53a423b08e67ba9dc557fe4f547d4b696",
+      "sha256": "254daf60b2512b82e71c806a9bd61897905ce87a745e0c8397c888de869e252a",
       "source": ""
     },
     {
@@ -1533,25 +1551,25 @@
     {
       "kind": "index",
       "path": "索引/TAGS.md",
-      "sha256": "8a7977003f7cde08e0d369bfb1f4134324a9e7e66705e0e26a4959e29587a368",
+      "sha256": "a073a84bdd6aec82cfdd08f0d471c163c5e078e88c3ecec3742294c1d71c6dea",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按主题.md",
-      "sha256": "cb60d72b112cbd97d0782145a1d7957a56ce77fc0ae236c940ad0f5af2f4bc6d",
+      "sha256": "841eafc2219e04fb5217d05ad8833229107ee7c95b61ea97e2c7d12b4dbd0579",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按状态.md",
-      "sha256": "ba204c8267e2da6f4fa4871427f1713b025f1a35a88ee68c2061453039311ef4",
+      "sha256": "2a7b0959d0e54f294b6db9feae50354f1b0a04d71a43f330b1e497c27cf4f02a",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按类型.md",
-      "sha256": "3ea43065b5019ca34a509ad74074d18c87091dd6fb8c99dee3b4e5fb2902bd88",
+      "sha256": "d01ce3b9584b89069ff2a040fb1ad7a1ea31940cce39c56d4286466005093ad1",
       "source": ""
     },
     {
@@ -1569,7 +1587,7 @@
     {
       "kind": "index",
       "path": "索引/月度/2026-11.md",
-      "sha256": "cea2d09509ef6fe49597c1b5dd01779613d0041bc0505754614e71b170a559f3",
+      "sha256": "3543b086759754a31b1714fa5e8d125b2b752d93c0e12d92dba9ae25c5e8969c",
       "source": ""
     }
   ],
@@ -1777,6 +1795,12 @@
       "date": "2026-11-15",
       "path": "项目/ROS仿真车/2026-11-15_实车车牌OCR更换PaddleOCR.md",
       "sha256": "b1e8dc95bbd2b8aa2e295cc89226140327e5f7decc542e353ad28fb7008a8a80",
+      "updated": "2026-11-15"
+    },
+    {
+      "date": "2026-11-15",
+      "path": "项目/ROS仿真车/2026-11-15_实车门口卡顿航点格角修复.md",
+      "sha256": "489879ef86ab50e5e6c60cff52818dfc76676110516abb5a94c6ce396b604326",
       "updated": "2026-11-15"
     },
     {
