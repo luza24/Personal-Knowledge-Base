@@ -158,6 +158,12 @@
     },
     {
       "kind": "theme",
+      "path": "主题/导航与运动控制/ROS仿真车/2026-11-16_ebike两站视觉去重与独立节点.md",
+      "sha256": "e650cd1a956b1e49baae2ca596de84ca03f5d57a35e29142beb829aa442fc414",
+      "source": "项目/ROS仿真车/2026-11-16_ebike两站视觉去重与独立节点.md"
+    },
+    {
+      "kind": "theme",
       "path": "主题/导航与运动控制/技术报告/2026-09-21_智慧社区复赛导航与视觉方案.md",
       "sha256": "e76a59c84373d2a4ada34b20a9f33fd2d05803bf279d5d2a22cc2b07e2319dc6",
       "source": "项目/技术报告/2026-09-21_智慧社区复赛导航与视觉方案.md"
@@ -249,7 +255,7 @@
     {
       "kind": "theme",
       "path": "主题/感知与视觉/ROS仿真车/2026-11-15_AIC26实车相机与视觉检测稳定性排障.md",
-      "sha256": "0cdc3cfff17d4b483273ecf3dec581325c4d91d0528062aed1fa5e27185746e6",
+      "sha256": "223fcbed5d5801c75899cb4f4f17d948bd4a86b99310bc27853512629b77b6f4",
       "source": "项目/ROS仿真车/2026-11-15_AIC26实车相机与视觉检测稳定性排障.md"
     },
     {
@@ -263,6 +269,12 @@
       "path": "主题/感知与视觉/ROS仿真车/2026-11-15_实车车牌OCR更换PaddleOCR.md",
       "sha256": "b1e8dc95bbd2b8aa2e295cc89226140327e5f7decc542e353ad28fb7008a8a80",
       "source": "项目/ROS仿真车/2026-11-15_实车车牌OCR更换PaddleOCR.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/感知与视觉/ROS仿真车/2026-11-16_ebike两站视觉去重与独立节点.md",
+      "sha256": "e650cd1a956b1e49baae2ca596de84ca03f5d57a35e29142beb829aa442fc414",
+      "source": "项目/ROS仿真车/2026-11-16_ebike两站视觉去重与独立节点.md"
     },
     {
       "kind": "theme",
@@ -495,7 +507,7 @@
     {
       "kind": "theme",
       "path": "主题/硬件与调试/ROS仿真车/2026-11-15_AIC26实车相机与视觉检测稳定性排障.md",
-      "sha256": "0cdc3cfff17d4b483273ecf3dec581325c4d91d0528062aed1fa5e27185746e6",
+      "sha256": "223fcbed5d5801c75899cb4f4f17d948bd4a86b99310bc27853512629b77b6f4",
       "source": "项目/ROS仿真车/2026-11-15_AIC26实车相机与视觉检测稳定性排障.md"
     },
     {
@@ -1173,7 +1185,7 @@
     {
       "kind": "timeline",
       "path": "时间线/2026/11/15/2026-11-15_AIC26实车相机与视觉检测稳定性排障.md",
-      "sha256": "0cdc3cfff17d4b483273ecf3dec581325c4d91d0528062aed1fa5e27185746e6",
+      "sha256": "223fcbed5d5801c75899cb4f4f17d948bd4a86b99310bc27853512629b77b6f4",
       "source": "项目/ROS仿真车/2026-11-15_AIC26实车相机与视觉检测稳定性排障.md"
     },
     {
@@ -1204,6 +1216,24 @@
       "kind": "day",
       "path": "时间线/2026/11/15/_当日变更.md",
       "sha256": "fd80f1cdedd3e5354bcd9a2f2eb5c08161ab29398a654212e62bf21adc2b0a0c",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/11/16/2026-11-15_AIC26实车相机与视觉检测稳定性排障.md",
+      "sha256": "223fcbed5d5801c75899cb4f4f17d948bd4a86b99310bc27853512629b77b6f4",
+      "source": "项目/ROS仿真车/2026-11-15_AIC26实车相机与视觉检测稳定性排障.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/11/16/2026-11-16_ebike两站视觉去重与独立节点.md",
+      "sha256": "e650cd1a956b1e49baae2ca596de84ca03f5d57a35e29142beb829aa442fc414",
+      "source": "项目/ROS仿真车/2026-11-16_ebike两站视觉去重与独立节点.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/11/16/_当日变更.md",
+      "sha256": "4037cb156712f0c8bf8e005167948287a0dfcea586f5977b4d98e370d2a0daf8",
       "source": ""
     },
     {
@@ -1283,6 +1313,12 @@
       "path": "类型/功能开发/ROS仿真车/2026-11-15_实车车牌OCR更换PaddleOCR.md",
       "sha256": "b1e8dc95bbd2b8aa2e295cc89226140327e5f7decc542e353ad28fb7008a8a80",
       "source": "项目/ROS仿真车/2026-11-15_实车车牌OCR更换PaddleOCR.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/功能开发/ROS仿真车/2026-11-16_ebike两站视觉去重与独立节点.md",
+      "sha256": "e650cd1a956b1e49baae2ca596de84ca03f5d57a35e29142beb829aa442fc414",
+      "source": "项目/ROS仿真车/2026-11-16_ebike两站视觉去重与独立节点.md"
     },
     {
       "kind": "type",
@@ -1371,7 +1407,7 @@
     {
       "kind": "type",
       "path": "类型/报错排查/ROS仿真车/2026-11-15_AIC26实车相机与视觉检测稳定性排障.md",
-      "sha256": "0cdc3cfff17d4b483273ecf3dec581325c4d91d0528062aed1fa5e27185746e6",
+      "sha256": "223fcbed5d5801c75899cb4f4f17d948bd4a86b99310bc27853512629b77b6f4",
       "source": "项目/ROS仿真车/2026-11-15_AIC26实车相机与视觉检测稳定性排障.md"
     },
     {
@@ -1581,7 +1617,7 @@
     {
       "kind": "index",
       "path": "索引/INDEX.md",
-      "sha256": "fe1368bd37f69e2e7879a093f48f99bea3c14fd8202de8e7a9f7f86a4d73538d",
+      "sha256": "9b7981d45b910d083fa6dd3e9a5f0c97759ea4dd74c9ea9f959680126b2a5370",
       "source": ""
     },
     {
@@ -1593,25 +1629,25 @@
     {
       "kind": "index",
       "path": "索引/TAGS.md",
-      "sha256": "155c22eab636da1615e352e987adb0af3a3acec1c21c20ba364920af87558bfc",
+      "sha256": "1f4231f2214e9c8cfa4fec0d9519afcf53dddae389b1aadd34d79f89939aad4b",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按主题.md",
-      "sha256": "bb975635430abf0ea8c8cef307ad281b1595805d27ae22d3820445d6b79e42c2",
+      "sha256": "d69c27c835339c865e04123241d162f000b45762b305b001beac9ba8106a1145",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按状态.md",
-      "sha256": "0cb2051e0f0ae853d540d477c8b3a9722bbde920da6ed8427a3e14eed83bcc43",
+      "sha256": "70e7a34be3020f1322666fed84b5e2e715f491b36f007003dc9c21400d359783",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按类型.md",
-      "sha256": "d36d8588a2a8af86d67a2566c6f71f86588cbbb3b4095fcf06a2a204d3a98d37",
+      "sha256": "beb7559352aeed83de5d6c96603c33a05744d3660b9ec45ae9d63948555cff54",
       "source": ""
     },
     {
@@ -1629,7 +1665,7 @@
     {
       "kind": "index",
       "path": "索引/月度/2026-11.md",
-      "sha256": "f6739a8f1ef8a660c0d79809d1506a40f650284309ca30286bd8dc93719ed501",
+      "sha256": "2c25846cfb7556a05de4d3c83e86c0b903d68e9be99c830eaafc005123f8821b",
       "source": ""
     }
   ],
@@ -1830,8 +1866,8 @@
     {
       "date": "2026-11-15",
       "path": "项目/ROS仿真车/2026-11-15_AIC26实车相机与视觉检测稳定性排障.md",
-      "sha256": "0cdc3cfff17d4b483273ecf3dec581325c4d91d0528062aed1fa5e27185746e6",
-      "updated": "2026-11-15"
+      "sha256": "223fcbed5d5801c75899cb4f4f17d948bd4a86b99310bc27853512629b77b6f4",
+      "updated": "2026-11-16"
     },
     {
       "date": "2026-11-15",
@@ -1850,6 +1886,12 @@
       "path": "项目/ROS仿真车/2026-11-15_实车门口卡顿航点格角修复.md",
       "sha256": "489879ef86ab50e5e6c60cff52818dfc76676110516abb5a94c6ce396b604326",
       "updated": "2026-11-15"
+    },
+    {
+      "date": "2026-11-16",
+      "path": "项目/ROS仿真车/2026-11-16_ebike两站视觉去重与独立节点.md",
+      "sha256": "e650cd1a956b1e49baae2ca596de84ca03f5d57a35e29142beb829aa442fc414",
+      "updated": "2026-11-16"
     },
     {
       "date": "2026-09-15",
