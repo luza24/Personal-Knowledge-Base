@@ -1,7 +1,7 @@
 ---
 title: 实车车牌 OCR 从 EasyOCR 换成 PaddleOCR
 date: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-19
 project: ROS仿真车
 type: 功能开发
 themes: [感知与视觉]
@@ -72,6 +72,24 @@ status: 部分解决
 - 注意：在 roslaunch + 私有 master 测试时遇到工作区已记录的“节点启动约 5 秒被外部 SIGTERM”问题，直接运行节点则稳定；实车 bringup 时需观察 `/perception/car/ocr_ready` 和 respawn。
 - 回滚：`cp -p <file>.bak_20261115_paddle <file>`，或 `git reset --hard pre-paddle-ocr`（会丢弃迁移后改动）。
 
+## 2026-11-19 detect_gui 扩展：检测图按 target 归档 + building/car 通用 OCR
+
+- **输出目录**：`detect_gui.py` 的保存路径改为 `<工作区>/detect/<target>/`，标注 jpg 与结果 json
+  同目录；`--save-dir` 仍表示根目录，GUI 的 `s`/保存按钮与 headless 共用 `save_outputs()`。
+- **OCR 预加载**：`car` 和 `building` 在脚本启动时即加载工作区 PaddleOCR（`plate_ocr.py`，
+  离线 PP-OCRv4），终端打印 `loading paddleocr` / `paddleocr ready`。
+- **car**：保留原车牌 ROI 识别，GUI 和 headless 都新增终端输出
+  `car plate OCR: <text> (<conf>, <status>)`。
+- **building**：新增 `PlateOcrReader.recognize_text()`（无车牌灰度预处理、无字符白名单，
+  直接跑通用中文 OCR），对每个 building 检测框外扩 5% 裁剪后识别；
+  终端逐行打印 `building OCR [box N]: 文本 (置信度)`，结果 JSON 增加
+  `ocr: [{box, text, conf}]`，GUI 右侧面板显示识别文字。
+- **验证**：`--target building --source results/building.jpg --headless` 输出
+  `building OCR [box 0]: 极光大厦 (1.00)`，JSON `ocr` 正确；`--target car` 正常预加载，
+  在 `results/car.jpg` 上模型未检出车辆（非回归）；`py_compile` 通过。
+- **备份**：`detect_gui.py.bak_20261119_detectdir`、`detect_gui.py.bak_20261119_building_ocr`、
+  `plate_ocr.py.bak_20261119_text_ocr`。
+
 ## 相关记录
 
 - [AIC26 视觉检测 v2 与实车 PC 语音链路验证](2026-11-05_AIC26视觉v2实车链路.md) —— 原 EasyOCR 车牌链路与检测协议背景。
@@ -81,3 +99,4 @@ status: 部分解决
 ## 变更记录
 
 - 2026-11-15 19:21 首次整理
+- 2026-11-19 22:34 补充：detect_gui 检测图按 target 归档；building 通用 OCR、car 车牌终端输出；启动时预加载 PaddleOCR

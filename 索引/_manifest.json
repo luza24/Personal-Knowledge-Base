@@ -159,8 +159,14 @@
     {
       "kind": "theme",
       "path": "主题/导航与运动控制/ROS仿真车/2026-11-16_ebike两站视觉去重与独立节点.md",
-      "sha256": "e650cd1a956b1e49baae2ca596de84ca03f5d57a35e29142beb829aa442fc414",
+      "sha256": "fd963dd9c2369446ba49084606e373c201566a90e69f9eb3aae769eaf018f671",
       "source": "项目/ROS仿真车/2026-11-16_ebike两站视觉去重与独立节点.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/导航与运动控制/ROS仿真车/2026-11-19_第二红绿灯绿灯后起步延迟排查.md",
+      "sha256": "706610880497a02bb1d69eea31d59a97e4f4e3616f2817f542f5a3415609aee8",
+      "source": "项目/ROS仿真车/2026-11-19_第二红绿灯绿灯后起步延迟排查.md"
     },
     {
       "kind": "theme",
@@ -267,14 +273,20 @@
     {
       "kind": "theme",
       "path": "主题/感知与视觉/ROS仿真车/2026-11-15_实车车牌OCR更换PaddleOCR.md",
-      "sha256": "b1e8dc95bbd2b8aa2e295cc89226140327e5f7decc542e353ad28fb7008a8a80",
+      "sha256": "d0f79bbd15ec927368dc33b273473f398caad29b56f5fd8af1da7ba4a044d214",
       "source": "项目/ROS仿真车/2026-11-15_实车车牌OCR更换PaddleOCR.md"
     },
     {
       "kind": "theme",
       "path": "主题/感知与视觉/ROS仿真车/2026-11-16_ebike两站视觉去重与独立节点.md",
-      "sha256": "e650cd1a956b1e49baae2ca596de84ca03f5d57a35e29142beb829aa442fc414",
+      "sha256": "fd963dd9c2369446ba49084606e373c201566a90e69f9eb3aae769eaf018f671",
       "source": "项目/ROS仿真车/2026-11-16_ebike两站视觉去重与独立节点.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/感知与视觉/ROS仿真车/2026-11-19_第二红绿灯绿灯后起步延迟排查.md",
+      "sha256": "706610880497a02bb1d69eea31d59a97e4f4e3616f2817f542f5a3415609aee8",
+      "source": "项目/ROS仿真车/2026-11-19_第二红绿灯绿灯后起步延迟排查.md"
     },
     {
       "kind": "theme",
@@ -1203,7 +1215,7 @@
     {
       "kind": "timeline",
       "path": "时间线/2026/11/15/2026-11-15_实车车牌OCR更换PaddleOCR.md",
-      "sha256": "b1e8dc95bbd2b8aa2e295cc89226140327e5f7decc542e353ad28fb7008a8a80",
+      "sha256": "d0f79bbd15ec927368dc33b273473f398caad29b56f5fd8af1da7ba4a044d214",
       "source": "项目/ROS仿真车/2026-11-15_实车车牌OCR更换PaddleOCR.md"
     },
     {
@@ -1227,13 +1239,37 @@
     {
       "kind": "timeline",
       "path": "时间线/2026/11/16/2026-11-16_ebike两站视觉去重与独立节点.md",
-      "sha256": "e650cd1a956b1e49baae2ca596de84ca03f5d57a35e29142beb829aa442fc414",
+      "sha256": "fd963dd9c2369446ba49084606e373c201566a90e69f9eb3aae769eaf018f671",
       "source": "项目/ROS仿真车/2026-11-16_ebike两站视觉去重与独立节点.md"
     },
     {
       "kind": "day",
       "path": "时间线/2026/11/16/_当日变更.md",
       "sha256": "4037cb156712f0c8bf8e005167948287a0dfcea586f5977b4d98e370d2a0daf8",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/11/19/2026-11-15_实车车牌OCR更换PaddleOCR.md",
+      "sha256": "d0f79bbd15ec927368dc33b273473f398caad29b56f5fd8af1da7ba4a044d214",
+      "source": "项目/ROS仿真车/2026-11-15_实车车牌OCR更换PaddleOCR.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/11/19/2026-11-16_ebike两站视觉去重与独立节点.md",
+      "sha256": "fd963dd9c2369446ba49084606e373c201566a90e69f9eb3aae769eaf018f671",
+      "source": "项目/ROS仿真车/2026-11-16_ebike两站视觉去重与独立节点.md"
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/11/19/2026-11-19_第二红绿灯绿灯后起步延迟排查.md",
+      "sha256": "706610880497a02bb1d69eea31d59a97e4f4e3616f2817f542f5a3415609aee8",
+      "source": "项目/ROS仿真车/2026-11-19_第二红绿灯绿灯后起步延迟排查.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/11/19/_当日变更.md",
+      "sha256": "d31ac77d0d852fb9fbe142ff0e699ad590500d2460ea69d8e5e6a14559187587",
       "source": ""
     },
     {
@@ -1311,13 +1347,13 @@
     {
       "kind": "type",
       "path": "类型/功能开发/ROS仿真车/2026-11-15_实车车牌OCR更换PaddleOCR.md",
-      "sha256": "b1e8dc95bbd2b8aa2e295cc89226140327e5f7decc542e353ad28fb7008a8a80",
+      "sha256": "d0f79bbd15ec927368dc33b273473f398caad29b56f5fd8af1da7ba4a044d214",
       "source": "项目/ROS仿真车/2026-11-15_实车车牌OCR更换PaddleOCR.md"
     },
     {
       "kind": "type",
       "path": "类型/功能开发/ROS仿真车/2026-11-16_ebike两站视觉去重与独立节点.md",
-      "sha256": "e650cd1a956b1e49baae2ca596de84ca03f5d57a35e29142beb829aa442fc414",
+      "sha256": "fd963dd9c2369446ba49084606e373c201566a90e69f9eb3aae769eaf018f671",
       "source": "项目/ROS仿真车/2026-11-16_ebike两站视觉去重与独立节点.md"
     },
     {
@@ -1415,6 +1451,12 @@
       "path": "类型/报错排查/ROS仿真车/2026-11-15_实车门口卡顿航点格角修复.md",
       "sha256": "489879ef86ab50e5e6c60cff52818dfc76676110516abb5a94c6ce396b604326",
       "source": "项目/ROS仿真车/2026-11-15_实车门口卡顿航点格角修复.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/报错排查/ROS仿真车/2026-11-19_第二红绿灯绿灯后起步延迟排查.md",
+      "sha256": "706610880497a02bb1d69eea31d59a97e4f4e3616f2817f542f5a3415609aee8",
+      "source": "项目/ROS仿真车/2026-11-19_第二红绿灯绿灯后起步延迟排查.md"
     },
     {
       "kind": "type",
@@ -1617,7 +1659,7 @@
     {
       "kind": "index",
       "path": "索引/INDEX.md",
-      "sha256": "9b7981d45b910d083fa6dd3e9a5f0c97759ea4dd74c9ea9f959680126b2a5370",
+      "sha256": "130c49db6d0a5e46fb943fcc44b231bd4e8fac14034fee75497056a8ec03874f",
       "source": ""
     },
     {
@@ -1629,25 +1671,25 @@
     {
       "kind": "index",
       "path": "索引/TAGS.md",
-      "sha256": "1f4231f2214e9c8cfa4fec0d9519afcf53dddae389b1aadd34d79f89939aad4b",
+      "sha256": "eddcf778ffc53b5fca4f70878fee931e095e46407e1864d02a633121c340aeac",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按主题.md",
-      "sha256": "d69c27c835339c865e04123241d162f000b45762b305b001beac9ba8106a1145",
+      "sha256": "88fda4321bf750d4eadcc1eeec5dafd3745086561bc2f2091167371663abcd7f",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按状态.md",
-      "sha256": "70e7a34be3020f1322666fed84b5e2e715f491b36f007003dc9c21400d359783",
+      "sha256": "98054808f86886dbf605cba30a3bf8f3145adbfe69f6f13a2bf55715240bdf8c",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按类型.md",
-      "sha256": "beb7559352aeed83de5d6c96603c33a05744d3660b9ec45ae9d63948555cff54",
+      "sha256": "2e940c51140e96c5ef3a4a7e1a9cafc9b119bb4ad194736a48f247877aba059b",
       "source": ""
     },
     {
@@ -1665,7 +1707,7 @@
     {
       "kind": "index",
       "path": "索引/月度/2026-11.md",
-      "sha256": "2c25846cfb7556a05de4d3c83e86c0b903d68e9be99c830eaafc005123f8821b",
+      "sha256": "99eb51a8f599722f0c06620cf19ebe336b85f3da39589202ec8ac35bbe527bdb",
       "source": ""
     }
   ],
@@ -1878,8 +1920,8 @@
     {
       "date": "2026-11-15",
       "path": "项目/ROS仿真车/2026-11-15_实车车牌OCR更换PaddleOCR.md",
-      "sha256": "b1e8dc95bbd2b8aa2e295cc89226140327e5f7decc542e353ad28fb7008a8a80",
-      "updated": "2026-11-15"
+      "sha256": "d0f79bbd15ec927368dc33b273473f398caad29b56f5fd8af1da7ba4a044d214",
+      "updated": "2026-11-19"
     },
     {
       "date": "2026-11-15",
@@ -1890,8 +1932,14 @@
     {
       "date": "2026-11-16",
       "path": "项目/ROS仿真车/2026-11-16_ebike两站视觉去重与独立节点.md",
-      "sha256": "e650cd1a956b1e49baae2ca596de84ca03f5d57a35e29142beb829aa442fc414",
-      "updated": "2026-11-16"
+      "sha256": "fd963dd9c2369446ba49084606e373c201566a90e69f9eb3aae769eaf018f671",
+      "updated": "2026-11-19"
+    },
+    {
+      "date": "2026-11-19",
+      "path": "项目/ROS仿真车/2026-11-19_第二红绿灯绿灯后起步延迟排查.md",
+      "sha256": "706610880497a02bb1d69eea31d59a97e4f4e3616f2817f542f5a3415609aee8",
+      "updated": "2026-11-19"
     },
     {
       "date": "2026-09-15",
