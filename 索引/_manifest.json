@@ -302,6 +302,12 @@
     },
     {
       "kind": "theme",
+      "path": "主题/感知与视觉/ROS仿真车/2026-11-23_实车bringup双相机预览可靠性.md",
+      "sha256": "ca0969a984ec9ad1c76186678d6cf94f7dcaad303e4f074ad7c6fd0728cb124d",
+      "source": "项目/ROS仿真车/2026-11-23_实车bringup双相机预览可靠性.md"
+    },
+    {
+      "kind": "theme",
       "path": "主题/感知与视觉/技术报告/2026-09-21_智慧社区复赛导航与视觉方案.md",
       "sha256": "e76a59c84373d2a4ada34b20a9f33fd2d05803bf279d5d2a22cc2b07e2319dc6",
       "source": "项目/技术报告/2026-09-21_智慧社区复赛导航与视觉方案.md"
@@ -545,6 +551,12 @@
       "path": "主题/硬件与调试/ROS仿真车/2026-11-20_垃圾投放正确性判定与sort1080p切换.md",
       "sha256": "13766e9a6668bf9ce960730ed3e5dbc18eea0465183f3e243d28709f2a6163d4",
       "source": "项目/ROS仿真车/2026-11-20_垃圾投放正确性判定与sort1080p切换.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/硬件与调试/ROS仿真车/2026-11-23_实车bringup双相机预览可靠性.md",
+      "sha256": "ca0969a984ec9ad1c76186678d6cf94f7dcaad303e4f074ad7c6fd0728cb124d",
+      "source": "项目/ROS仿真车/2026-11-23_实车bringup双相机预览可靠性.md"
     },
     {
       "kind": "theme",
@@ -1333,9 +1345,15 @@
       "source": "项目/开发环境/2026-11-23_实车NoMachine卡顿与VSCodeServer内存耗尽.md"
     },
     {
+      "kind": "timeline",
+      "path": "时间线/2026/11/23/2026-11-23_实车bringup双相机预览可靠性.md",
+      "sha256": "ca0969a984ec9ad1c76186678d6cf94f7dcaad303e4f074ad7c6fd0728cb124d",
+      "source": "项目/ROS仿真车/2026-11-23_实车bringup双相机预览可靠性.md"
+    },
+    {
       "kind": "day",
       "path": "时间线/2026/11/23/_当日变更.md",
-      "sha256": "2200402aee6ae6ec7ce0ac4ee9db663f7dd6b66c87f5f3e423b5983c99efdf31",
+      "sha256": "3e590f73c7b54359459187698e0c510043d3a39412e12e2753ae4a57dbf7a5c9",
       "source": ""
     },
     {
@@ -1433,6 +1451,12 @@
       "path": "类型/功能开发/ROS仿真车/2026-11-23_AB街人员与ebike_park分区统计.md",
       "sha256": "db9f637f99f0098e5b187a4c8eba65c528fd7d246d686e0d03e5ecf1579e5450",
       "source": "项目/ROS仿真车/2026-11-23_AB街人员与ebike_park分区统计.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/功能开发/ROS仿真车/2026-11-23_实车bringup双相机预览可靠性.md",
+      "sha256": "ca0969a984ec9ad1c76186678d6cf94f7dcaad303e4f074ad7c6fd0728cb124d",
+      "source": "项目/ROS仿真车/2026-11-23_实车bringup双相机预览可靠性.md"
     },
     {
       "kind": "type",
@@ -1743,7 +1767,7 @@
     {
       "kind": "index",
       "path": "索引/INDEX.md",
-      "sha256": "0dc2e040434c3230ef9e1312ebc933db68f6d673d540e3545222bc563447b716",
+      "sha256": "15f5ae54411df5489752e81513e20feddc91f101a78eba10438aac14e1c1859c",
       "source": ""
     },
     {
@@ -1755,25 +1779,25 @@
     {
       "kind": "index",
       "path": "索引/TAGS.md",
-      "sha256": "61bdc8cde1b8eab001f2a633c9b31a22f047ee6e94e6118e986344f73bce0fc5",
+      "sha256": "dc4efa93dff2925fe3b759b6bf3730e12310caac077a28129c5677b442f73234",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按主题.md",
-      "sha256": "c54a35e9e5de5541a1a3c1532f3e4feb0f6248778092dd8e7aa5693d8fe62aae",
+      "sha256": "182484b59aa8d7e7ce8b9db27ef4f8f4922a0fb99f9030ebd786343df6a18dc7",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按状态.md",
-      "sha256": "3837d7ba9f70d2d9a810f8732450a414b5b434fa4ee35afe7b173650cf019789",
+      "sha256": "5c949a171331fb1094ccb62bbf83077de8bfe6b302749005c8664e424c7e0f7c",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按类型.md",
-      "sha256": "5997a6f7cd73fc21297b9217b3f7ba87d7aa6b0c2f68a9aae453ad87864af10a",
+      "sha256": "e3230acc2af67c253d6800bc19e341e9cf004f53ad24ddd3cbf470408eb1e44c",
       "source": ""
     },
     {
@@ -1791,7 +1815,7 @@
     {
       "kind": "index",
       "path": "索引/月度/2026-11.md",
-      "sha256": "444a1448d7825fbe16ddb5458b0ad0c2a4629a709c6ef4fd223dbbaf79fe6cf9",
+      "sha256": "00338aa0e6864db828cb9bb162634699f7b00257a56f994f8b8c46ac0f66a533",
       "source": ""
     }
   ],
@@ -2035,6 +2059,12 @@
       "date": "2026-11-23",
       "path": "项目/ROS仿真车/2026-11-23_AB街人员与ebike_park分区统计.md",
       "sha256": "db9f637f99f0098e5b187a4c8eba65c528fd7d246d686e0d03e5ecf1579e5450",
+      "updated": "2026-11-23"
+    },
+    {
+      "date": "2026-11-23",
+      "path": "项目/ROS仿真车/2026-11-23_实车bringup双相机预览可靠性.md",
+      "sha256": "ca0969a984ec9ad1c76186678d6cf94f7dcaad303e4f074ad7c6fd0728cb124d",
       "updated": "2026-11-23"
     },
     {
