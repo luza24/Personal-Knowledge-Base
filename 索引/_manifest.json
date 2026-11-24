@@ -296,6 +296,12 @@
     },
     {
       "kind": "theme",
+      "path": "主题/感知与视觉/ROS仿真车/2026-11-21_sort模型切换best_int8.md",
+      "sha256": "dcec8fc73bc704461651e91ea936a1c0608ccd34810f7217ff178aae4f560046",
+      "source": "项目/ROS仿真车/2026-11-21_sort模型切换best_int8.md"
+    },
+    {
+      "kind": "theme",
       "path": "主题/感知与视觉/ROS仿真车/2026-11-23_AB街人员与ebike_park分区统计.md",
       "sha256": "db9f637f99f0098e5b187a4c8eba65c528fd7d246d686e0d03e5ecf1579e5450",
       "source": "项目/ROS仿真车/2026-11-23_AB街人员与ebike_park分区统计.md"
@@ -551,6 +557,12 @@
       "path": "主题/硬件与调试/ROS仿真车/2026-11-20_垃圾投放正确性判定与sort1080p切换.md",
       "sha256": "13766e9a6668bf9ce960730ed3e5dbc18eea0465183f3e243d28709f2a6163d4",
       "source": "项目/ROS仿真车/2026-11-20_垃圾投放正确性判定与sort1080p切换.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/硬件与调试/ROS仿真车/2026-11-21_sort模型切换best_int8.md",
+      "sha256": "dcec8fc73bc704461651e91ea936a1c0608ccd34810f7217ff178aae4f560046",
+      "source": "项目/ROS仿真车/2026-11-21_sort模型切换best_int8.md"
     },
     {
       "kind": "theme",
@@ -1328,6 +1340,30 @@
     },
     {
       "kind": "timeline",
+      "path": "时间线/2026/11/21/2026-11-21_sort模型切换best_int8.md",
+      "sha256": "dcec8fc73bc704461651e91ea936a1c0608ccd34810f7217ff178aae4f560046",
+      "source": "项目/ROS仿真车/2026-11-21_sort模型切换best_int8.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/11/21/_当日变更.md",
+      "sha256": "242fbdba2898025360212a4bbc8fffa381a36f10f7249297a60b678d971a77a7",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/11/22/2026-11-21_sort模型切换best_int8.md",
+      "sha256": "dcec8fc73bc704461651e91ea936a1c0608ccd34810f7217ff178aae4f560046",
+      "source": "项目/ROS仿真车/2026-11-21_sort模型切换best_int8.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/11/22/_当日变更.md",
+      "sha256": "547900577a0643c492b9679d7c0a11476694c84565b382d8d2254e35d5b1abba",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
       "path": "时间线/2026/11/23/2026-11-15_AIC26实车相机与视觉检测稳定性排障.md",
       "sha256": "6153c7aed8c3c8fb02caf538b5ff1f680a3a6a03198f7a8ec7f4cf7c534592ff",
       "source": "项目/ROS仿真车/2026-11-15_AIC26实车相机与视觉检测稳定性排障.md"
@@ -1354,6 +1390,18 @@
       "kind": "day",
       "path": "时间线/2026/11/23/_当日变更.md",
       "sha256": "3e590f73c7b54359459187698e0c510043d3a39412e12e2753ae4a57dbf7a5c9",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/11/24/2026-11-21_sort模型切换best_int8.md",
+      "sha256": "dcec8fc73bc704461651e91ea936a1c0608ccd34810f7217ff178aae4f560046",
+      "source": "项目/ROS仿真车/2026-11-21_sort模型切换best_int8.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/11/24/_当日变更.md",
+      "sha256": "50fb79c935d98c74b3a10f26d6dab7cf0764b30202e9d5da89cfd8660001cb94",
       "source": ""
     },
     {
@@ -1760,6 +1808,12 @@
     },
     {
       "kind": "type",
+      "path": "类型/部署迁移/ROS仿真车/2026-11-21_sort模型切换best_int8.md",
+      "sha256": "dcec8fc73bc704461651e91ea936a1c0608ccd34810f7217ff178aae4f560046",
+      "source": "项目/ROS仿真车/2026-11-21_sort模型切换best_int8.md"
+    },
+    {
+      "kind": "type",
       "path": "类型/部署迁移/开发环境/2026-10-15_E盘清理与C盘瘦身.md",
       "sha256": "584adc0858503e9ad709e76dfd1a4b94ae84277b586a67fd585f5034d75e5d91",
       "source": "项目/开发环境/2026-10-15_E盘清理与C盘瘦身.md"
@@ -1767,7 +1821,7 @@
     {
       "kind": "index",
       "path": "索引/INDEX.md",
-      "sha256": "15f5ae54411df5489752e81513e20feddc91f101a78eba10438aac14e1c1859c",
+      "sha256": "6edbdb0be1486f4470f921c55ecf94670599676dc5c311679fac00a86b6f07f0",
       "source": ""
     },
     {
@@ -1779,25 +1833,25 @@
     {
       "kind": "index",
       "path": "索引/TAGS.md",
-      "sha256": "dc4efa93dff2925fe3b759b6bf3730e12310caac077a28129c5677b442f73234",
+      "sha256": "38cb02dc8046a32e43badb8511142dff24c312dda507d3c6029cca7cb1410cb2",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按主题.md",
-      "sha256": "182484b59aa8d7e7ce8b9db27ef4f8f4922a0fb99f9030ebd786343df6a18dc7",
+      "sha256": "e0e79ee3bff995e9e2136e4a4f9caffa7e8016056297c335541b2648e211634f",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按状态.md",
-      "sha256": "5c949a171331fb1094ccb62bbf83077de8bfe6b302749005c8664e424c7e0f7c",
+      "sha256": "d292681064ca1ad9f16b340259a05b61c7bf69d9829ebe3a6531b522cad227ed",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按类型.md",
-      "sha256": "e3230acc2af67c253d6800bc19e341e9cf004f53ad24ddd3cbf470408eb1e44c",
+      "sha256": "2240b3024fb70196814ba13856a8ce7a2aac52a8048094046974ea712a4de855",
       "source": ""
     },
     {
@@ -1815,7 +1869,7 @@
     {
       "kind": "index",
       "path": "索引/月度/2026-11.md",
-      "sha256": "00338aa0e6864db828cb9bb162634699f7b00257a56f994f8b8c46ac0f66a533",
+      "sha256": "ed8224f3a251eb28abed7112ea14208590086d3d6c3cd3df6bfbba132488f380",
       "source": ""
     }
   ],
@@ -2054,6 +2108,12 @@
       "path": "项目/ROS仿真车/2026-11-20_垃圾投放正确性判定与sort1080p切换.md",
       "sha256": "13766e9a6668bf9ce960730ed3e5dbc18eea0465183f3e243d28709f2a6163d4",
       "updated": "2026-11-20"
+    },
+    {
+      "date": "2026-11-21",
+      "path": "项目/ROS仿真车/2026-11-21_sort模型切换best_int8.md",
+      "sha256": "dcec8fc73bc704461651e91ea936a1c0608ccd34810f7217ff178aae4f560046",
+      "updated": "2026-11-24"
     },
     {
       "date": "2026-11-23",
