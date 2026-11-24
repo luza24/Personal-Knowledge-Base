@@ -314,6 +314,12 @@
     },
     {
       "kind": "theme",
+      "path": "主题/感知与视觉/ROS仿真车/2026-11-25_仪表终端温湿度读数取整.md",
+      "sha256": "3d7dabaf92e0dadaea44437262daba0e80427f219edfc0c19771601b7e0569ab",
+      "source": "项目/ROS仿真车/2026-11-25_仪表终端温湿度读数取整.md"
+    },
+    {
+      "kind": "theme",
       "path": "主题/感知与视觉/技术报告/2026-09-21_智慧社区复赛导航与视觉方案.md",
       "sha256": "e76a59c84373d2a4ada34b20a9f33fd2d05803bf279d5d2a22cc2b07e2319dc6",
       "source": "项目/技术报告/2026-09-21_智慧社区复赛导航与视觉方案.md"
@@ -1405,6 +1411,18 @@
       "source": ""
     },
     {
+      "kind": "timeline",
+      "path": "时间线/2026/11/25/2026-11-25_仪表终端温湿度读数取整.md",
+      "sha256": "3d7dabaf92e0dadaea44437262daba0e80427f219edfc0c19771601b7e0569ab",
+      "source": "项目/ROS仿真车/2026-11-25_仪表终端温湿度读数取整.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/11/25/_当日变更.md",
+      "sha256": "46578b10e8ce78e8176f38f577eb7687f276aa8ea11a9f24ee71f533e19affde",
+      "source": ""
+    },
+    {
       "kind": "readme",
       "path": "时间线/README.md",
       "sha256": "1db597090169e238b840c257a4663dd7977cd4a2b18b5a12af8ab475a514f19c",
@@ -1505,6 +1523,12 @@
       "path": "类型/功能开发/ROS仿真车/2026-11-23_实车bringup双相机预览可靠性.md",
       "sha256": "ca0969a984ec9ad1c76186678d6cf94f7dcaad303e4f074ad7c6fd0728cb124d",
       "source": "项目/ROS仿真车/2026-11-23_实车bringup双相机预览可靠性.md"
+    },
+    {
+      "kind": "type",
+      "path": "类型/功能开发/ROS仿真车/2026-11-25_仪表终端温湿度读数取整.md",
+      "sha256": "3d7dabaf92e0dadaea44437262daba0e80427f219edfc0c19771601b7e0569ab",
+      "source": "项目/ROS仿真车/2026-11-25_仪表终端温湿度读数取整.md"
     },
     {
       "kind": "type",
@@ -1821,7 +1845,7 @@
     {
       "kind": "index",
       "path": "索引/INDEX.md",
-      "sha256": "6edbdb0be1486f4470f921c55ecf94670599676dc5c311679fac00a86b6f07f0",
+      "sha256": "e390a25f000c5764317ec27711654fe769188a2a5493645569a9e3ad7a630241",
       "source": ""
     },
     {
@@ -1833,25 +1857,25 @@
     {
       "kind": "index",
       "path": "索引/TAGS.md",
-      "sha256": "38cb02dc8046a32e43badb8511142dff24c312dda507d3c6029cca7cb1410cb2",
+      "sha256": "a45d7fa2c2c3493b2aa53029ba76612c60ee92fc82a012ba6e6eb0e97c45dd9a",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按主题.md",
-      "sha256": "e0e79ee3bff995e9e2136e4a4f9caffa7e8016056297c335541b2648e211634f",
+      "sha256": "55c1964e83116b2d9be54d5708c690b65ba34e80725b84603ca35cf74361c160",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按状态.md",
-      "sha256": "d292681064ca1ad9f16b340259a05b61c7bf69d9829ebe3a6531b522cad227ed",
+      "sha256": "3e6ff98222bb1035ed3708ee871e523443c1d1ccc98b14b1260b10e5952f9ca4",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按类型.md",
-      "sha256": "2240b3024fb70196814ba13856a8ce7a2aac52a8048094046974ea712a4de855",
+      "sha256": "47867513f9510c9ce614ccafd7bc2a22a098a14096f298ea920edae127b453ed",
       "source": ""
     },
     {
@@ -1869,7 +1893,7 @@
     {
       "kind": "index",
       "path": "索引/月度/2026-11.md",
-      "sha256": "ed8224f3a251eb28abed7112ea14208590086d3d6c3cd3df6bfbba132488f380",
+      "sha256": "34eee088fef2fac8bf69fbed74c0a354de81617b9e78c3d238e101dfd17a8b9c",
       "source": ""
     }
   ],
@@ -2126,6 +2150,12 @@
       "path": "项目/ROS仿真车/2026-11-23_实车bringup双相机预览可靠性.md",
       "sha256": "ca0969a984ec9ad1c76186678d6cf94f7dcaad303e4f074ad7c6fd0728cb124d",
       "updated": "2026-11-23"
+    },
+    {
+      "date": "2026-11-25",
+      "path": "项目/ROS仿真车/2026-11-25_仪表终端温湿度读数取整.md",
+      "sha256": "3d7dabaf92e0dadaea44437262daba0e80427f219edfc0c19771601b7e0569ab",
+      "updated": "2026-11-25"
     },
     {
       "date": "2026-09-15",
