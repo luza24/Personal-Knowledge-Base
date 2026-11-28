@@ -327,7 +327,7 @@
     {
       "kind": "theme",
       "path": "主题/感知与视觉/ROS仿真车/2026-11-25_实车八类报告行与终端过滤.md",
-      "sha256": "5433dd755f86734dc993748e4a9a591124937d48535af26df90a8e1dc89b41d6",
+      "sha256": "58fc988c4fd590a61026ad15cee7518f3cecf38a0ec94cb88834737c2c077dac",
       "source": "项目/ROS仿真车/2026-11-25_实车八类报告行与终端过滤.md"
     },
     {
@@ -335,6 +335,12 @@
       "path": "主题/感知与视觉/ROS仿真车/2026-11-25_实车启动15秒与模型延后预加载.md",
       "sha256": "79a92d802d9757f1731c171623389813a8ff556906420631134a99b75f33acf1",
       "source": "项目/ROS仿真车/2026-11-25_实车启动15秒与模型延后预加载.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/感知与视觉/ROS仿真车/2026-11-28_ebike_pano与job_parking移植评估.md",
+      "sha256": "7469fcf0b01eebae2f81957e2e9b0260d39f2bce74128d15060e08a19010bb03",
+      "source": "项目/ROS仿真车/2026-11-28_ebike_pano与job_parking移植评估.md"
     },
     {
       "kind": "theme",
@@ -413,6 +419,12 @@
       "path": "主题/方案与选型/ROS仿真车/2026-11-15_DELI9011温湿度表盘读数方案.md",
       "sha256": "0388188db48583db97d2e9ef8a0936527461f9c808903eb5689601a38bd15b4d",
       "source": "项目/ROS仿真车/2026-11-15_DELI9011温湿度表盘读数方案.md"
+    },
+    {
+      "kind": "theme",
+      "path": "主题/方案与选型/ROS仿真车/2026-11-28_ebike_pano与job_parking移植评估.md",
+      "sha256": "7469fcf0b01eebae2f81957e2e9b0260d39f2bce74128d15060e08a19010bb03",
+      "source": "项目/ROS仿真车/2026-11-28_ebike_pano与job_parking移植评估.md"
     },
     {
       "kind": "theme",
@@ -633,7 +645,7 @@
     {
       "kind": "theme",
       "path": "主题/语音与交互/ROS仿真车/2026-11-25_实车八类报告行与终端过滤.md",
-      "sha256": "5433dd755f86734dc993748e4a9a591124937d48535af26df90a8e1dc89b41d6",
+      "sha256": "58fc988c4fd590a61026ad15cee7518f3cecf38a0ec94cb88834737c2c077dac",
       "source": "项目/ROS仿真车/2026-11-25_实车八类报告行与终端过滤.md"
     },
     {
@@ -1443,7 +1455,7 @@
     {
       "kind": "timeline",
       "path": "时间线/2026/11/25/2026-11-25_实车八类报告行与终端过滤.md",
-      "sha256": "5433dd755f86734dc993748e4a9a591124937d48535af26df90a8e1dc89b41d6",
+      "sha256": "58fc988c4fd590a61026ad15cee7518f3cecf38a0ec94cb88834737c2c077dac",
       "source": "项目/ROS仿真车/2026-11-25_实车八类报告行与终端过滤.md"
     },
     {
@@ -1456,6 +1468,18 @@
       "kind": "day",
       "path": "时间线/2026/11/25/_当日变更.md",
       "sha256": "2cc537cb2924153b4522a9ea5570ee82252705f37f4cc66ac19ef99ee323bcf0",
+      "source": ""
+    },
+    {
+      "kind": "timeline",
+      "path": "时间线/2026/11/28/2026-11-28_ebike_pano与job_parking移植评估.md",
+      "sha256": "7469fcf0b01eebae2f81957e2e9b0260d39f2bce74128d15060e08a19010bb03",
+      "source": "项目/ROS仿真车/2026-11-28_ebike_pano与job_parking移植评估.md"
+    },
+    {
+      "kind": "day",
+      "path": "时间线/2026/11/28/_当日变更.md",
+      "sha256": "0e43a24773d5314669b77742a37c5df6e172bb6790c6bd7660bfd8895cbad57a",
       "source": ""
     },
     {
@@ -1569,7 +1593,7 @@
     {
       "kind": "type",
       "path": "类型/功能开发/ROS仿真车/2026-11-25_实车八类报告行与终端过滤.md",
-      "sha256": "5433dd755f86734dc993748e4a9a591124937d48535af26df90a8e1dc89b41d6",
+      "sha256": "58fc988c4fd590a61026ad15cee7518f3cecf38a0ec94cb88834737c2c077dac",
       "source": "项目/ROS仿真车/2026-11-25_实车八类报告行与终端过滤.md"
     },
     {
@@ -1790,6 +1814,12 @@
     },
     {
       "kind": "type",
+      "path": "类型/方案选型/ROS仿真车/2026-11-28_ebike_pano与job_parking移植评估.md",
+      "sha256": "7469fcf0b01eebae2f81957e2e9b0260d39f2bce74128d15060e08a19010bb03",
+      "source": "项目/ROS仿真车/2026-11-28_ebike_pano与job_parking移植评估.md"
+    },
+    {
+      "kind": "type",
       "path": "类型/方案选型/开发环境/2026-10-09_Claude-Code-effort与DeepSeek实测.md",
       "sha256": "46696b0217d3b89c459610ea9e8f234476180c6a0884f936cf04e725659ae6d4",
       "source": "项目/开发环境/2026-10-09_Claude-Code-effort与DeepSeek实测.md"
@@ -1893,7 +1923,7 @@
     {
       "kind": "index",
       "path": "索引/INDEX.md",
-      "sha256": "d6b6d9905be22614913fcaba0d8eb2d77ed739159dab1718950592cc57ee0d0e",
+      "sha256": "3eb73b809cd9661b22384be03e61742e9118b0fbde9a249ee87008b28835ee4c",
       "source": ""
     },
     {
@@ -1905,25 +1935,25 @@
     {
       "kind": "index",
       "path": "索引/TAGS.md",
-      "sha256": "b52b8c27b19c9331e9c8b8040825b07b5ac42105afbefa0e4a615a281de23bef",
+      "sha256": "48d25b50dc7234fcd399f5fab45535f35514e1d651fbfd8e65aa6c421d33c80a",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按主题.md",
-      "sha256": "7fef1f72ce3eded815f776d8d2308c9b9cd294836c53e9b3c59bc7d20f8fab87",
+      "sha256": "8c03f638ebc5cf52d4c175e2d582c78425d1af5cda0ef7d8fdc19651f2feb370",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按状态.md",
-      "sha256": "995e154504f78329b6faaec41a77600ed1a43f27db49b7b308db822e3dc1cd9e",
+      "sha256": "1a510bc3875de339061ee0af617980b7eed8f212be88311e4e1efccfc625680d",
       "source": ""
     },
     {
       "kind": "index",
       "path": "索引/按类型.md",
-      "sha256": "53a534913ebce9e9759e2cef8a7fe49500cda401ecf39b3603dbab94657011d7",
+      "sha256": "92ccc9ded272c36adfde1e276d7ba29381b7cbb3b920cf57af441c98cb5e291a",
       "source": ""
     },
     {
@@ -1941,7 +1971,7 @@
     {
       "kind": "index",
       "path": "索引/月度/2026-11.md",
-      "sha256": "7887da1470b851bf65d81e4fa25d203e5d8169770ab0c5fa3f251315788b5f48",
+      "sha256": "d78932776768bd53740de3ae39d5460d99734bda5cc03f876cf4f2cc186d9123",
       "source": ""
     }
   ],
@@ -2208,7 +2238,7 @@
     {
       "date": "2026-11-25",
       "path": "项目/ROS仿真车/2026-11-25_实车八类报告行与终端过滤.md",
-      "sha256": "5433dd755f86734dc993748e4a9a591124937d48535af26df90a8e1dc89b41d6",
+      "sha256": "58fc988c4fd590a61026ad15cee7518f3cecf38a0ec94cb88834737c2c077dac",
       "updated": "2026-11-25"
     },
     {
@@ -2216,6 +2246,12 @@
       "path": "项目/ROS仿真车/2026-11-25_实车启动15秒与模型延后预加载.md",
       "sha256": "79a92d802d9757f1731c171623389813a8ff556906420631134a99b75f33acf1",
       "updated": "2026-11-25"
+    },
+    {
+      "date": "2026-11-28",
+      "path": "项目/ROS仿真车/2026-11-28_ebike_pano与job_parking移植评估.md",
+      "sha256": "7469fcf0b01eebae2f81957e2e9b0260d39f2bce74128d15060e08a19010bb03",
+      "updated": "2026-11-28"
     },
     {
       "date": "2026-09-15",
